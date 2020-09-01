@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá, meu nome é Renato 👋
 
-<!--
-**renatocfrancisco/renatocfrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:books: Atualmente cursando: Bacharelado de Sistemas de Informação na [![FHO Badge](https://img.shields.io/badge/FHO-Uniararas-blue)](http://www.uniararas.br/) <br>
+:page_facing_up: TCC: *"Bloqueio de Anúncios utilizando Filtro de DNS com Raspberry Pi"* <br>
+:email: **_Procurando Estágio de TI_**
 
-Here are some ideas to get you started:
+### Linguagens and Ferramentas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS, Javascript
+- C#
+- Python
+- Git e Github :octocat:
+- Terminal Linux :penguin:
+- Metodologia Ágil "SCRUM"
+- Segurança da Informação e Pentest
+  - Conceitos de Segurança
+  - NMap e Wireshark
