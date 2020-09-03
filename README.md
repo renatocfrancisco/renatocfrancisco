@@ -5,15 +5,3 @@
 :email: **_Procurando Estágio de TI_** <br>
 
 #### :mailbox: Redes Sociais: &nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/renatocfrancisc) &nbsp;&nbsp;&nbsp;&nbsp; [Steam](https://steamcommunity.com/id/renatocf/) &nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/renato-c-francisco-365715175/)
-
-### Linguagens and Ferramentas:
-
-- HTML, CSS, Javascript
-- C#
-- Python
-- Git e Github :octocat:
-- Terminal Linux :penguin:
-- Metodologia Ágil "SCRUM"
-- Segurança da Informação e Pentest
-  - Conceitos de Segurança
-  - NMap e Wireshark
