@@ -9,5 +9,6 @@
 - HTML, CSS, Javascript
 - C#, Python, SQL
 - Nmap, Git
+- Linux :penguin:
 
 #### :mailbox: Redes Sociais: &nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/renatocfrancisc) &nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/renato-c-francisco-365715175/) &nbsp;&nbsp;&nbsp;&nbsp; [Steam](https://steamcommunity.com/id/renatocf/)
