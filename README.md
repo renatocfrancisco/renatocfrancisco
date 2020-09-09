@@ -5,6 +5,9 @@
 :email: **_Procurando Estágio de TI_** <br>
 
 #### :wrench: Linguagens e Ferramentas
-<img src="https://github.com/renatocfrancisco/renatocfrancisco/blob/master/icons/html.png" alt="HTML" width="48"> <img src="https://github.com/renatocfrancisco/renatocfrancisco/blob/master/icons/css.png" alt="CSS" width="48"> <img src="https://github.com/renatocfrancisco/renatocfrancisco/blob/master/icons/javascript.png" alt="JAVASCRIPT" width="48"> <img src="https://github.com/renatocfrancisco/renatocfrancisco/blob/master/icons/c-sharp.png" alt="C#" width="48"> <img src="https://github.com/renatocfrancisco/renatocfrancisco/blob/master/icons/python.png" alt="PYTHON" width="48"> <img src="https://github.com/renatocfrancisco/renatocfrancisco/blob/master/icons/sql.png" alt="SQL" width="48"> <img src="https://github.com/renatocfrancisco/renatocfrancisco/blob/master/icons/scrum.png" alt="SCRUM" width="48"> <img src="https://github.com/renatocfrancisco/renatocfrancisco/blob/master/icons/nmap.png" alt="NMAP" width="48"> <img src="https://github.com/renatocfrancisco/renatocfrancisco/blob/master/icons/git.png" alt="GIT" width="48">
+
+- HTML, CSS, Javascript
+- C#, Python, SQL
+- Nmap, Git
 
 #### :mailbox: Redes Sociais: &nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/renatocfrancisc) &nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/renato-c-francisco-365715175/) &nbsp;&nbsp;&nbsp;&nbsp; [Steam](https://steamcommunity.com/id/renatocf/)
