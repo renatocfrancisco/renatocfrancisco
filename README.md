@@ -1,7 +1,5 @@
 ### Olá, meu nome é Renato 👋
 
-[![FHO Badge](https://img.shields.io/badge/FHO-Uniararas-blue)](http://www.uniararas.br/)
-
 :books: Bacharelado de Sistemas de Informação na **[FHO Uniararas](http://www.uniararas.br/)** <br>
 :page_facing_up: TCC: *"Bloqueio de Anúncios utilizando Filtro de DNS com Raspberry Pi"* <br>
 :dollar: Procurando Estágio em Araras, SP e Região <br>
