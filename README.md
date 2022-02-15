@@ -1,7 +1,7 @@
 ### Olá, meu nome é Renato 👋
 
 :books: Bacharelado de Sistemas de Informação na **[FHO Uniararas](http://www.uniararas.br/)** <br>
-:dollar: Procurando Emprego ou Estágio em Araras, SP e Região <br>
+:dollar: Estagiário de TI na Agille Cred em Araras, SP <br>
 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white"/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
