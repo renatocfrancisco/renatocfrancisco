@@ -29,5 +29,5 @@
 <a href="https://steamcommunity.com/id/renatocf/">
   <img alt="Steam" src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=steam&logoColor=white"/>
 </a>
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/)
-[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=flat&logo=youtube-music&logoColor=white)](https://www.youtube.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/channel/UC1x-jNGxQytvdzN4_prewZA)
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=flat&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UC1x-jNGxQytvdzN4_prewZA?feature=share)
