@@ -32,3 +32,7 @@
 </a>
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/channel/UC1x-jNGxQytvdzN4_prewZA)
 [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=flat&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UC1x-jNGxQytvdzN4_prewZA?feature=share)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/fdbenaz90kby4kgxhrbo7ucrh)
+<a href="https://www.last.fm/pt/user/renatocfrancisc">
+  <img alt="Last.fm" src="https://img.shields.io/badge/last.fm-D51007?style=flat&logo=last.fm&logoColor=white"/>
+</a>
