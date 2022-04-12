@@ -20,6 +20,7 @@
 <a href="https://www.twitter.com/renatocfrancisc">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white"/>
 </a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/renatocrepisky)
 <a href="https://api.whatsapp.com/send?phone=5519989313476">
   <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
 </a>
