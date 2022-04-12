@@ -12,7 +12,8 @@
 <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white"/>
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white"/>
-<img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white"/> <br>
+<img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white"/> 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)<br>
 <a href="https://www.linkedin.com/in/renatocfrancisco/">
    <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
 </a>
@@ -34,3 +35,5 @@
 <a href="https://www.last.fm/pt/user/renatocfrancisc">
   <img alt="Last.fm" src="https://img.shields.io/badge/last.fm-D51007?style=flat&logo=last.fm&logoColor=white"/>
 </a>
+
+<sup><sub>[English version](https://github.com/renatocfrancisco/renatocfrancisco/blob/master/README-en.md)</sup></sub>
