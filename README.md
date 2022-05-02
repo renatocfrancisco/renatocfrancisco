@@ -24,9 +24,6 @@
 <a href="https://instagram.com/renatocrepisky">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://api.whatsapp.com/send?phone=5519989313476">
-  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
-</a>
 <a href="https://pt.stackoverflow.com/users/178890/renato-c-francisco?tab=profile">
   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"/>
 </a>
