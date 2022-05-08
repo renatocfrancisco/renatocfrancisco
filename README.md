@@ -15,6 +15,7 @@
 <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white"/> 
 <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
 
 <a href="https://www.linkedin.com/in/renatocfrancisco/">
    <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
@@ -24,7 +25,7 @@
 <a href="https://instagram.com/renatocrepisky">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://pt.stackoverflow.com/users/178890/renato-c-francisco?tab=profile">
+<a href="https://pt.stackoverflow.com/users/178890/renato-c-francisco">
   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-1fa308?style=flat&logo=stack-overflow&logoColor=white"/>
 </a>
 <a href="https://stackoverflow.com/users/12208182/renato-c-francisco">
@@ -40,7 +41,7 @@
   <img alt="Youtube Music" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=flat&logo=youtube-music&logoColor=white"/>
 </a>
 <a href="https://open.spotify.com/user/fdbenaz90kby4kgxhrbo7ucrh">
-  <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white"/>
+  <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ed760?style=flat&logo=spotify&logoColor=white"/>
 </a>
 <a href="https://www.last.fm/pt/user/renatocfrancisc">
   <img alt="Last.fm" src="https://img.shields.io/badge/last.fm-D51007?style=flat&logo=last.fm&logoColor=white"/>
