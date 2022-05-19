@@ -1,7 +1,9 @@
 ## Olá, meu nome é Renato 👋
 
+<a href="https://pt.stackoverflow.com/users/178890/renato-c-francisco"><img align="right" src="https://pt.stackoverflow.com/users/flair/178890.png?theme=dark" width="208" height="58" alt="perfil de Renato C.Francisco em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Renato C.Francisco em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
+
 :books: Bacharelado de Sistemas de Informação na [**FHO Uniararas**](http://www.uniararas.br/) <br>
-:dollar: Auxiliar de TI na [**Agille Cred**](https://agillecred.com.br/) em Araras, SP <br>
+:dollar: Auxiliar de TI na [**Agille Cred**](https://agillecred.com.br/) em Araras, SP <br><br>
 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"/>
