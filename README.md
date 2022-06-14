@@ -16,7 +16,7 @@
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white"/>
 <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white"/> 
 <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
-<img alt="Python Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"/>
+<img alt="Python Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
 <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=Puppeteer&logoColor=white"/>
@@ -28,12 +28,6 @@
 </a>
 <a href="https://instagram.com/renatocrepisky">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://pt.stackoverflow.com/users/178890/renato-c-francisco">
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-1fa308?style=flat&logo=stack-overflow&logoColor=white"/>
-</a>
-<a href="https://stackoverflow.com/users/12208182/renato-c-francisco">
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"/>
 </a>
 <a href="https://steamcommunity.com/id/renatocf/">
   <img alt="Steam" src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=steam&logoColor=white"/>
@@ -48,7 +42,10 @@
   <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ed760?style=flat&logo=spotify&logoColor=white"/>
 </a>
 <a href="https://www.last.fm/pt/user/renatocfrancisc">
-  <img alt="Last.fm" src="https://img.shields.io/badge/last.fm-D51007?style=flat&logo=last.fm&logoColor=white"/>
+  <img alt="Last.fm" src="https://img.shields.io/badge/Last.fm-D51007?style=flat&logo=last.fm&logoColor=white"/>
+</a>
+<a href="https://renatocfrancisco.github.io/">
+  <img alt="Personal Site" src="https://img.shields.io/badge/Github.io-renatocfrancisco-lightgrey"/>
 </a>
 
 <sub>[English version](https://github.com/renatocfrancisco/renatocfrancisco/blob/master/README-en.md)</sub>
