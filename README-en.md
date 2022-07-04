@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Renato</h1>
 <h3 align="center">A developer from Brazil</h3>
 
-- 🔭 I’m currently working on **a Web and a Python Project**
+- 🔭 I’m currently working on **a Electron Project**
 
-- 🌱 I’m currently learning **PySimpleGUI, Pyppeteer and Puppeteer**
+- 🌱 I’m currently learning **JavaScript and Puppeteer**
 
 - 📫 How to reach me: **renatocfrancisco@alunos.fho.edu.br**
 
