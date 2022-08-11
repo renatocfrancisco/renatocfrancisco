@@ -1,9 +1,9 @@
 ## Olá, meu nome é Renato 👋
 
+<img align='right' src='github.gif' width='200'>
+
 :books: Bacharelado de Sistemas de Informação na [**FHO Uniararas**](http://www.uniararas.br/) <br>
 :dollar: Auxiliar de TI na [**Agille Cred**](https://agillecred.com.br/) em Araras, SP <br><br>
-
-<img align='right' src='https://raw.githubusercontent.com/renatocfrancisco/renatocfrancisco/main/github.gif' width='200'>
 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"/>
@@ -20,9 +20,12 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
 <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=Puppeteer&logoColor=white"/>
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
 
-<a href="https://www.linkedin.com/in/renatocfrancisco/">
-   <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
+<a href="mailto:renatocfrancisco@alunos.fho.edu.br">
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/renatocfrancisco/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
 </a><a href="https://www.twitter.com/renatocfrancisc">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white"/>
 </a>
