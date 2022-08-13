@@ -5,10 +5,7 @@
 :books: Bacharelado de Sistemas de Informação na [**FHO Uniararas**](http://www.uniararas.br/) <br>
 :dollar: Auxiliar de TI na [**Agille Cred**](https://agillecred.com.br/) em Araras, SP <br><br>
 
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"/>
-<img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/>
-<img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"/>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/> <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
@@ -35,6 +32,7 @@
 <a href="https://steamcommunity.com/id/renatocf/">
   <img alt="Steam" src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=steam&logoColor=white"/>
 </a>
+
 <a href="https://youtube.com/channel/UC1x-jNGxQytvdzN4_prewZA">
   <img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white"/>
 </a>
