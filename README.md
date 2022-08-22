@@ -43,7 +43,7 @@
   <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ed760?style=flat&logo=spotify&logoColor=white"/>
 </a>
 <a href="https://www.last.fm/pt/user/renatocfrancisc">
-  <img alt="Last.fm" src="https://badges.lastfm.workers.dev/last-played?user=renatocfrancisc&color=darkred&style=flat"/>
+  <img alt="Last.fm" src="https://badges.lastfm.workers.dev/last-played?user=renatocfrancisc&color=darkred"/>
 </a>
 <a href="https://renatocfrancisco.github.io/">
   <img alt="Personal Site" src="https://img.shields.io/badge/Github.io-renatocfrancisco-lightgrey"/>
