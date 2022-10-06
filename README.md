@@ -51,3 +51,5 @@
 </a>
 
 <sub>[English version](https://github.com/renatocfrancisco/renatocfrancisco/blob/master/README-en.md)</sub>
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=renatocfrancisc)
