@@ -3,12 +3,9 @@
 ## Olá, meu nome é Renato 👋
 
 <img align='right' src='github.gif' width='200'>
-<!-- http://www.uniararas.br/ -->
-<!-- https://agillecred.com.br/ -->
 
-<div id="work">
   <a href="http://www.uniararas.br/"><img alt="FHO" title="Bacharelado de Sistemas de Informação" src="https://img.shields.io/badge/%F0%9F%93%9A-FHO%20Uniararas-012f6f"/> <a href="https://agillecred.com.br/"></a> <img alt="Agille Cred" title="Auxiliar de TI na Agille Cred em Araras, SP" src="https://img.shields.io/badge/%F0%9F%93%99-Agille%20Cred-f47920?style=flat"/></a> <img alt="ZIMA" title="Ainda não." src="https://img.shields.io/badge/%F0%9F%94%B9-ZIMA-11ccf9?style=flat"/>
-</div>
+
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/> <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
@@ -25,9 +22,7 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
 <img alt="React JS" src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
 
-<a href="mailto:renatocfrancisco@alunos.fho.edu.br">
-  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-</a><a href="https://www.linkedin.com/in/renatocfrancisco/">
+<a href="https://www.linkedin.com/in/renatocfrancisco/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
 </a><a href="https://www.twitter.com/renatocfrancisc">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white"/>
@@ -58,15 +53,3 @@
 <sub>[English version](https://github.com/renatocfrancisco/renatocfrancisco/blob/master/README-en.md)</sub>
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=renatocfrancisc)
-
-<style>
-  #work img{
-    border: none;
-    transition: all ease-in-out 0.2s;
-    cursor: pointer;
-  }
-  #work img:hover{
-    border: 1px solid #888;
-    background-color: #ddd;
-  }
-</style>
