@@ -26,14 +26,12 @@
 
 <a href="https://www.linkedin.com/in/renatocfrancisco/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
-</a><a href="https://www.twitter.com/renatocfrancisc">
+</a>
+<a href="https://www.twitter.com/renatocfrancisc">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white"/>
 </a>
 <a href="https://instagram.com/renatocrepisky">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://steamcommunity.com/id/renatocf/">
-  <img alt="Steam" src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=steam&logoColor=white"/>
 </a>
 
 <a href="https://youtube.com/channel/UC1x-jNGxQytvdzN4_prewZA">
@@ -47,6 +45,12 @@
 </a>
 <a href="https://www.last.fm/pt/user/renatocfrancisc">
   <img alt="Last.fm" src="https://img.shields.io/badge/Last.fm-D51007?style=flat&logo=last.fm&logoColor=white"/>
+</a>
+<a href="https://steamcommunity.com/id/renatocf/">
+  <img alt="Steam" src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=steam&logoColor=white"/>
+</a>
+<a href="https://discord.com/users/154420685177880576">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"/>
 </a>
 <a href="https://renatocfrancisco.github.io/">
   <img alt="Personal Site" src="https://img.shields.io/badge/Github.io-renatocfrancisco-lightgrey"/>
