@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="github-markdown.css">
-
 ## Olá, meu nome é Renato 👋
 
 <img align='right' src='github.gif' width='200'>
@@ -9,7 +7,6 @@
 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/> <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
-<img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white"/> 
 <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
 <img alt="Python Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
@@ -17,7 +14,9 @@
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
 <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=Puppeteer&logoColor=white"/>
 <img alt="React JS" src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
-
+<img alt="Electron JS" src="https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white"/>
+<img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white"/>
+  
 <a href="https://www.linkedin.com/in/renatocfrancisco/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
 </a>
@@ -49,7 +48,7 @@
 <a href="https://renatocfrancisco.github.io/">
   <img alt="Personal Site" src="https://img.shields.io/badge/Github.io-renatocfrancisco-lightgrey"/>
 </a>
+ 
+<span></span>
 
-<sub>[English version](https://github.com/renatocfrancisco/renatocfrancisco/blob/master/README-en.md)</sub>
-
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=renatocfrancisc)
+<img align="center" src="https://lastfm-recently-played.vercel.app/api?user=renatocfrancisc"/>
