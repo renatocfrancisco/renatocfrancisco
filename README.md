@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="github-markdown.css">
 
-## Olá, meu nome é Renato 👋
+<h2 id="header" onmouseover="changeText()" onmouseout="resetText()">Olá, meu nome é Renato 👋</h2>
 
 <img align='right' src='github.gif' width='200'>
 
@@ -56,6 +56,23 @@
   <img alt="Personal Site" src="https://img.shields.io/badge/Github.io-renatocfrancisco-lightgrey"/>
 </a>
 
-<sub>[English version](https://github.com/renatocfrancisco/renatocfrancisco/blob/master/README-en.md)</sub>
+<details>
+<summary>➕</summary>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renatocfrancisco&show_icons=true&theme=dark&locale=en&layout=compact" alt="renatocfrancisco" /></p>
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=renatocfrancisc)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=renatocfrancisco&show_icons=true&theme=dark&locale=en" alt="renatocfrancisco" /></p>
+
+<img align="left" src="https://lastfm-recently-played.vercel.app/api?user=renatocfrancisc"/>
+</details>
+
+<script>
+  function changeText() {
+    var header = document.getElementById("header");
+    header.innerHTML = "Hi, my name is Renato 👋";
+  }
+
+  function resetText() {
+    var header = document.getElementById("header");
+    header.innerHTML = "Olá, meu nome é Renato 👋";
+  }
+</script>
