@@ -3,7 +3,7 @@
 <img align='right' src='github.gif' width='200'>
 
 <a href="http://www.uniararas.br/"><img alt="FHO" title="Bacharelado de Sistemas de Informação" src="https://img.shields.io/badge/%F0%9F%93%9A-FHO%20Uniararas-012f6f"/> 
-<a href="https://agillecred.com.br/"><img alt="Agille Cred" title="Auxiliar de TI na Agille Cred em Araras, SP" src="https://img.shields.io/badge/%F0%9F%93%99-Agille%20Cred-f47920?style=flat"/></a> <img alt="ZIMA" title="Ainda não." src="https://img.shields.io/badge/%F0%9F%94%B9-ZIMA-11ccf9?style=flat"/>
+<a href="https://agillecred.com.br/"><img alt="Agille Cred" title="Auxiliar de TI na Agille Cred em Araras, SP" src="https://img.shields.io/badge/%F0%9F%93%99-Agille%20Cred-f47920?style=flat"/>
 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/> <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
