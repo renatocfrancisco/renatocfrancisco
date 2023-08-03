@@ -51,4 +51,4 @@
  
 <span></span>
 
-<img align="center" src="https://lastfm-recently-played.vercel.app/api?user=renatocfrancisc"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatocfrancisco&layout=compact&theme=dark"/><img align="center" src="https://lastfm-recently-played.vercel.app/api?user=renatocfrancisc"/>
