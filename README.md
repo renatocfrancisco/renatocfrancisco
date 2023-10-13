@@ -33,17 +33,8 @@
 <a href="https://music.youtube.com/channel/UC1x-jNGxQytvdzN4_prewZA?feature=share">
   <img alt="Youtube Music" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=flat&logo=youtube-music&logoColor=white"/>
 </a>
-<a href="https://open.spotify.com/user/fdbenaz90kby4kgxhrbo7ucrh">
-  <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ed760?style=flat&logo=spotify&logoColor=white"/>
-</a>
-<a href="https://www.last.fm/pt/user/renatocfrancisc">
-  <img alt="Last.fm" src="https://img.shields.io/badge/Last.fm-D51007?style=flat&logo=last.fm&logoColor=white"/>
-</a>
 <a href="https://steamcommunity.com/id/renatocf/">
   <img alt="Steam" src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=steam&logoColor=white"/>
-</a>
-<a href="https://discord.com/users/154420685177880576">
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"/>
 </a>
 <a href="https://renatocfrancisco.github.io/">
   <img alt="Personal Site" src="https://img.shields.io/badge/Github.io-renatocfrancisco-lightgrey"/>
