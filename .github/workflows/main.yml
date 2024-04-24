@@ -1,7 +1,7 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (monthly, day 1, 1am)
+  # Schedule updates (each hour)
   schedule: [{cron: "0 1 1 * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
@@ -52,14 +52,10 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: renatocfrancisc
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_repositories: yes
-          plugin_notable_types: commit
           plugin_steam: yes
           plugin_steam_achievements_limit: 2
           plugin_steam_games_limit: 1
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 1
-          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_sections: player, recently-played
           plugin_steam_user: renatocf
