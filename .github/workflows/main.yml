@@ -47,7 +47,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_music: yes
           plugin_music_token: ${{ secrets.MUSIC_METRICS_TOKEN }}
-          plugin_music_limit: 3
+          plugin_music_limit: 5
           plugin_music_mode: recent
           plugin_music_provider: lastfm
           plugin_music_time_range: short
@@ -55,9 +55,9 @@ jobs:
           plugin_music_user: renatocfrancisc
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_METRICS_TOKEN }}
+          plugin_steam_user: ${{ secrets.STEAM_ID_METRICS }}
           plugin_steam_achievements_limit: 2
           plugin_steam_games_limit: 1
           plugin_steam_playtime_threshold: 2
-          plugin_steam_recent_games_limit: 1
+          plugin_steam_recent_games_limit: 3
           plugin_steam_sections: player, recently-played
-          plugin_steam_user: ${{ secrets.STEAM_ID_METRICS }}
