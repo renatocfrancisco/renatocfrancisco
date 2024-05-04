@@ -525,7 +525,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        8 hours played
+                                        9 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -542,7 +542,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            8 / 10 achievements unlocked
+                                            9 / 10 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCAwQH/8QALRAAAQQABQIFAgcAAAAAAAAAAQIDBAUABhESMRNhISIkcrEHQRQzQmJxgaH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMF/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAEQMhQXEEErHw/9oADAMBAAIRAxEAPwDjt/Zzzc2SEWMos/iHQAH1bdu49+MaVUgapuu/NlN2SltITEX5dOofKrnUp01OuByEtizSX/yQ+Cv27/H/ADBq8jSW8/OJnA9VU5Kkk8KQVjYR226aY1wL3MVyVIRTXPdVLJ+XYin3YNVcPO2rBKVx3SUh1Q5CDxr2wIo7KwRcV7blhLS0mQ2lSVPqAA3jUEa8YI3EORI+oE2PBSoyl2S0tBPO7qc/1zjJfdJzNk9ccpLKpqikjgjfyMFhWxFxMWAVjdi+v3EGyV+oe96vk4bcu5vPoK+5r41ow04hEdx3wdZ8w00V9wD9jhev66cm5slIr5QZEh0ghhW0J3HtxgdELrMth1TLxS24lZ0QeAQcBXKHUpkxJnTYuPubc3CJbW0Slro0B9bzjb81Pmed8TuIP6de2EeMv1DPvT8jErl9ydbzZbbD4Q+8twBSDqATr44cPp3k92dLYsLRlxMVCwpppSSC6QeT+35/jDEnI1SSjH4mL2bX0mf/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Your Expressway to the Stars</div>
+                                                <div class="unlocked">4 May 2024</div>
+                                            </div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -556,18 +566,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwAEBQYB/8QAKxAAAQQABAQGAgMAAAAAAAAAAQIDBAUAERIxBiEksQcTUWFykRQiQWJx/8QAGQEAAQUAAAAAAAAAAAAAAAAAAQACAwUG/8QAHxEAAQQCAwEBAAAAAAAAAAAAAQACAwQRIRITMaHR/9oADAMBAAIRAxEAPwAdv7OebmyQiwlFkyHQAH1aSnUdue2PKKpsLB8KTHnPsaFqHllSQspBISFbDM4pyG+pd+au+HrgZoucN0bOhxCfxPM1bBRByy9x+3bF1DH2O2s/dtGpEC0e6+IRvKmwgPFZjT2GNCFnWpSg2SOaSrbfEorKwTb1yFWEsMiQ0CC+rSE6h77YcONWy3w/dshDi0mEXc9wkkkZew/XP7wBx0dS18098KWPrOkKVo24zyHn4pJc6l35q7nCT4YcSycpbEl1vyoMBQjgjLnqz5+uwxwV/XTk3NkpFfKDIkOkEMK0hOo+22LPCNuaZyxU6y/1EZTSdLSjz9P4+8CN/B2VJahE8JAGSu08S+JpXkQER3W9E+vAkADPcg8vTc4Noy+pa+ae4xqcV2yrhNWGmX+lihpWppQ58vvbfG74d8HuzpbFhaMuJioWFNNKSQXSDuf69/8AMF5Mr9JkIZTrgvGF/9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>A New You</div>
-                                                <div class="unlocked">31 Mar 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+6 others...</div>
+                                            <div class="description ellipsis">+7 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -578,7 +578,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 May 2024, 18:34:14 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 May 2024, 19:05:23 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
