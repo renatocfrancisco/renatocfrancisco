@@ -542,32 +542,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            7 / 34 achievements unlocked
+                                            9 / 34 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUEA//EACwQAAEEAQMCBAUFAAAAAAAAAAECAwQFEQASIQYxExQVYQcyQVGBIlJjcZH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIFBv/EABkRAQADAQEAAAAAAAAAAAAAAAEAAhEhMf/aAAwDAQACEQMRAD8AWVtf6iiwkyJNipQmygrbOeQkJS8sAABQAwB2GsrzMRmNWyFOWjjNilK46m7J88KGf1ZWMdx7arQZXkelLiUEqJZkz3MIGVEB5wnA/rR7qOA9c1tGh95l2tkoZTGLeSVbvnCscEcJI5+pGuYV32b29liDAhSVyUsyLNSmHFMOAWL5wsDkZC+e410tKiRAq0zoblo2WXmsOGc8ocuoBBBXgjBx21Kr7+L01KfqIFbETEjvKCkxlFKic8qwc9/f/dMbuwal9FOrjr3suux1oUB/O3qjdIrKTH0rDcdrJzyUbh6jMTkjjHjryD7aGWPRUOHaIR0952LaeIXIyI8k+Ay8kBY3Nk4CeRke5046WvWaeJOizmpyV+elKCRCeUMKfWQchBBBBB1Lua3pi2uPUFO30CwKQgyoDMllSgBgEjZg4HHbto6PIiyLAVzDZcuTZvtNR5A3Lc2qzsJSdzZVnBSlRP3+Uaa0Ta3fhcmSAoIekIeb3Hu2ZKNp/OM/nUSd0dXCWlNZ1DciC8kplCdWvyHM/ubOwAEgkHPH1504v7KBIoU19Uie46pcdCGzBeTkJdR9dgAwAT9tW+BC1twJ/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwP/xAArEAACAgEDAgUEAgMAAAAAAAABAgMEBQARIQYSExQiMUEHMlFhcYEzkaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgYB/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAERIxQQP/2gAMAwEAAhEDEQA/AGRmMOanmytzI+St2rUaOt6WNYnjlfjYOB9o9h/Q0tyhsrXht1cnf8vYJKotybeM7bhNy+5PaV33A2bcfGiJ7RyDXcBKHhhbL2bAuJF4jQFZWKhfftYtt6jwB3frQWXxOO6fgNOhkLlmaJvMS2p5hIjsQBsRx2ngeoH29wdSvdykEd91SKpkacuSySZanChcyZCYEl0DKyjv5HO39aQVbeVgmpTpkMoEFqFO5rkpU90igqQW2O4341yzWXqdQ5WpfpVnNmqrQyyQqzCRCNwGJAHB5H6J/WlM1lJuqsY1qchIrMEVGqB8l075G/k78/wPjTIp7A61A81n5qfXOTqeFGYVyUw7+e4byNz/AN1U5PBWTjI7scJnx9aUecdV7/DBH+Qj5VTsT/v41I9T9O5w9dZe1FhcnJXa/MyulVyGBc8ggc62r6b5yLF4o08pQycDbluaExB3AHwh/Gj1sFcZjPS2JnuKhyfTktKWlaq15oKkgsebYvDbYNu0Y2B9bEkg/jYaXQVMhNPir1qjHTqT3obNZp+XkVplBWPt3ClfcgkHbbjVN9TLlpLdePonDZdlKkzOKUngfHaoRl5I2PO3A2AO3Al8IesrmTp1r+LuxUWswyPGtBo0LCRSH+3hhz6uONMmTAMRFBsXP//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>It Makes the World Go Round</div>
-                                                <div class="unlocked">4 May 2024</div>
+                                                <div>Friendly Neighborhood Spider-Bot</div>
+                                                <div class="unlocked">5 May 2024</div>
                                             </div>
-                                            <div class="description">Sell $2,500 worth of resources.</div>
+                                            <div class="description">Hit 15 flyers with your Hook Shot.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgYBBAcF/8QALhAAAgEDAgQEBAcAAAAAAAAAAQIDBAURACEGEhMxFBVBURYiYaEjMkJxgYLh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIGAP/EABkRAAMBAQEAAAAAAAAAAAAAAAABEQIxQf/aAAwDAQACEQMRAD8A4d4r75LxJeRBcLkYkrZlCrVuiAByANj9tUmqL+0xXzW4r7kVkuB999TdpFj4pvLcjpL46cCRI2HMOoe7KTn+yNpk4b8RxBLWUUdJbUWGDqyVDxOJEJ2XA5Vzk+m2wOpvVXCksXBd8Td4aqNZL1dWjkaJQRWSDuzBv1ew+2rljud2WG0zyXS5mR54d2rJCGzIoO3NjGDp0reBTX8PxXDzCOKsigkkWnpuWWArynBRhg55ScMSRlz/AApUbQq8Ap/mJqKfcbhR1EwP81lqoWp0mt6nnF1I5VHmFSFyclvxG7DQcK3P4f4plerkEUFWgBlc4j2J+Vz6dyAewOM7aOtS50N/vTLZLpUCStnZGjpHIYFzg82O37ar3MXKSljih4duckx3cy0UhRB7KMZJ+uw0ZRr4aHV3a2WCgqainirVMdN0I0kiwDzH8qHODknZV989txnyILYtogqGEU1TUwlIWbLAdVTsB6Dtn1xpeuNsur1xktvC93poVAVU8M+c43Y4XYn2Ghs1k4hk4ltkk1jucaeLhMjNTSdg67sxHYfXRWIKokf/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQL/xAAsEAACAgEDAwIGAQUAAAAAAAABAgMEBQARIQYSMRMVBxQiQVFhFjNCcbTw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIABQb/xAAbEQEAAwEBAQEAAAAAAAAAAAABAAIREiExQf/aAAwDAQACEQMRAD8AbsVjTk/np5rORZzesqe29MigLM4AADADYAeNZuUt4DF5U465ksmbqp3tDFesMwH7+sAefudNXSm3t1n8nIXP9h9Sn4i4itkPiZ3PJBCXrQykzEhHALIQdvzsNZsNUWX9fXGO72ulFwL5OPO30I+n0ZslMCG/BIfg67kpv/HauZxkuUSPvhdJDfmcbNKgIILkEbEjU4p5Wpjczk6vs8UcUtmGWsYivy0TqV3LKeSp54/eqXgbcJ+F89StYisJXvLF3woURT80jdoU8gDu2H+NHjn9gsNYH7xcwFSG6uOWbFtmbEd23I5AgRrRQBQDy27E88AD96XeoltZ/qi1WyVXG+2e8NgoCkIWzXlVe+KX1PJDH+08EE8eDpxlFK/0hnenMx7hXW3atAMlCWT0ybDOrjZdj9j50SlHo987VytylesZWH02Nk07KiSRFAWVowvb38edtQSruexOpHcY2UPROWvXEkgoyzOH3/poG2BI7T3E7rtsw54541TOmMVLj/hrYSWJoZ3tQzyI3BUvLCfyf+PgaKi6X6HXGz0Zzn7ME7l5PUhsbklu4+IxsN+dtaeRlw8HTSYjp+C+N5IFjhNOcbgSodyzL9gPJP201nfkNr74E//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>At Least It’s Shiny</div>
-                                                <div class="unlocked">4 May 2024</div>
+                                                <div>Hobbyist Collector</div>
+                                                <div class="unlocked">5 May 2024</div>
                                             </div>
-                                            <div class="description">Collect 10 Silver ore resources.</div>
+                                            <div class="description">Collect 10 artifacts.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+5 others...</div>
+                                            <div class="description ellipsis">+7 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -578,7 +578,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 May 2024, 13:05:46 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 May 2024, 13:35:10 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
