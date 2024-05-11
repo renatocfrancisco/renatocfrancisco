@@ -542,32 +542,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            13 / 42 achievements unlocked
+                                            15 / 42 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABQEEBgP/xAApEAACAgIBBAEEAQUAAAAAAAABAgMEBREGABIhMSITFBVBYQcyM0JR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAIDBQb/xAApEQABAgQEBAcAAAAAAAAAAAADAQIABBEhEjFh8AUTIlEjMkGRscHx/9oADAMBAAIRAxEAPwBLjnHsfZ41hKEOEwM12XGwW7Nq3S2qpJ3BB4YFnJRtsWAGv+nXWm4/ieJolqpmeM8ehko1DcazBXDRSQKxUvptspBB8bYH9E+ugWppT4ZwTLSNcVFx61ZpqDFbAZwjRjQ8ugCuCBvW+7Xs9GNFG9i/FjLmUqw3as0d27eOjZjAUCPUo23b3E7ATQYAHzvrMHmyS814jl5dMqJ855/nrFuMCFH0+aG7sGFqVzmrPFeOw4JYzMa/2Sm19IEDvLb7Q/yHw7df692+m+dcB4xQ4FyCzQwdCCRKc0ySrApIYLsEE+vX66wNK9YvT0Dyw2r2FeNmZxjRFDLMGAjdu3zKCoY7KjRI8HRPUcr/AB9/F8ir4Gq342rj5rE4VGEELDQiZQwAEhcP/YPQO9/ok5syl5Reqt6pkmnf3v3gMBEbjbakXePZ6V8RxX7mOsox2GR4y5YR90knYpZgCUPbCR3dpXyQT8uuc+QPIbNqa1kpq1oM9GKKmC8EgcLtBMUYNIxK72BrQ0QBvpTiU/DMjwLj1PO5nH1rlGqojsQ5AV7ERI2ybHkfyDseN++iMvVw+OaxBgM7h8hQskuxnzwr2VY6JV5PIlUEbUkdynxvXTTkipSKVt1tu+7wwDtY3AsLWb2YqYSLHZrGGMKqn8jWYSKoXtAk+mBssPiNA6351+ujL1wpxjmcE01hpshhhPDJYiEbSRwysr6Qf41P1QFH8MTo9WIZsRJ9pXyX9T6T5VdTLC0Sz0kYEnTudGQgeizA7G9dWuUycaqcB5Ka/KMTmuRX6jJNalsorso0RHEi77VGvCj2fZ6jkeHllyo91NaV39aQHmGEYrUj/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgEDBQf/xAAmEAACAgICAgICAgMAAAAAAAABAgMEBREGEgAhEzEHIhRRMkFh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAECAwT/xAAdEQEBAQACAgMAAAAAAAAAAAACAQARIRJRMWGB/9oADAMBAAIRAxEAPwDT47x/FWuKYTHw4bD2cpYowzzTy0VPRXTsv2QXdtHZ2AACfsgeLMRjOESYVpJeKYuK3Wdaz1UqrIzysvZVjJ/y7D2Nn0N9taJ8qweLx834u4vYtTzRZFKUKV5a6B5nZlB+JVPpgQPo+hrt60T4WuXYcQktCrOJbJ7GaeSyqxwK+iUEmtszAAu4Us+gf1XW8khQ1zSKvHf1l2Rx/CosTFYqcYxT25pGgStJURSkqjbLJ6PXqPZ1vY113sHwtmOPYGjxXkWPuYPG18tHRsWoLMNVR8nVAx/voy7X6OiCNe9jzNW6mRykFBL9S3EKvySvErxIGVwsQErEnuOzqJCul3sD78T8uweKm/EvIrq/JbvR1n7zWkVZoZFI1GVHpOu/oejvt72D4WGHM1Vd6/imVqy/ifjsGRhE101kNWOpJ0mj6ehMGb0hH9n0SevvZHnMc3Qy2Uz1q7QpfyYZdL0RViYGNFVmCFtAgBS6gkoW0fWj4s4jk8VQ4ng7NDPYaHKwU4opoJ7qRiUAHW+wPR17Ef7BG/W9HxZQvcKjxMta5ybEyW55FnktRXEUxyqulaL3+vUeh97G+29keEph/c+F5c4Dhcc3Hany24xPlrUkZZI1+RKqHfTsDoO5Hdkj9d2/4AS25Pcx7/h/k9KgslW7HVeSzHYcSSykkbkZx6ftrXYegR19aA8nIZngLVIMTS5TQhyUbPZjtvKZA8rDTtM4/Vu49EbBA111oDw7zDIYm/w3O3LefwU+blpSww1or6sI1IHYgqP3dgo0NAAaH3s+O0o+tAlFc+/nf//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Big Spender</div>
+                                                <div>Hands On</div>
                                                 <div class="unlocked">11 May 2024</div>
                                             </div>
-                                            <div class="description">Spend 100 doubloons.</div>
+                                            <div class="description">Unlock all hand crafting recipes.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCAwUE/8QAKxAAAgICAQQBAwIHAAAAAAAAAQIDBAURBgASITEHE1FxYYEUFSIjQYKR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAhEQACAgEEAgMAAAAAAAAAAAABAgARAxIhQYEEMWFx0f/aAAwDAQACEQMRAD8AL+GcU4pB8fYK9yahhglqvApmlqKvczgdoZvJ2fv+/jqr+Y/GFWpJI3G6EVKKN2gmNWN/4gKwXSAEtskjXdrf3HWRT5dxeT4pxOKns37OSjrQhUq1pT/eUDsUnwrL3aUgHz+fICr3KcelPIY6jTqLcy0sVe1YrMBAIUdW7Yw/kyFj5Z9BQND79c8I7GwaF7zbRBoqfVzYi5PipbItj4/46cUF20ESK1g79EMR27/TWjv30X5DBcKy/wAWZ7McewtOBo6s7N3VlEsEyrsq299pHj0deQR0tMo2SqYk0JsBjkthxItusn0mj3rTtID2H3oj14P561uI4mGx8Jc8sW5obVmOZnChu76LqigOD/nu86I8eP8AiJqvcjoy+ZUCgqCD8weXGWqXHcVNFqNb9NbdNomI7JU13DZ9HuCv/sft1C3la0fL0y1J2tAPsxTVQGVh5KsNbf1onXonpmYCxxXL/F+Cw+W5DjKVmpDFLFOLEf1IpADsFG8emKkH31fQwXxzXlZ5+XRTM/b39uQggDa+/wBNVJB/PRppiwl28lMmFUyXa7dcc9fUX88uPyFyadeP5QwdwkgrwuYYUfewe0krr9Nft1w2crdxtHkZYwRrmYJIrFWFlPZs9ysFB3/SQRvXpmPTggn+Iq+QjrNcxFi0duHtWHsJ+7uSv4B6j8iZfhq/Heco8bv8aSeWm0axQSxxsR70oUbY+PA6FQhrit5OPQUVPfJP4J//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYECP/EACoQAAEEAQMDBAEFAQAAAAAAAAECAwQFEQYSIQAHQRMUIjFhFRYjJFFC/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQAAv/EAB4RAAIDAAIDAQAAAAAAAAAAAAERAAIDEkEhIjEy/9oADAMBAAIRAxEAPwCy0Vo/TDfbettNRVlStj9PRIfeVDSDs2biVK5OfyOSeo7V9tox/Tjf7R09AjhbojNuPQktuuOYCihO4EpCUkKUvk/JKRySQg0unGtSdk6ypclmO7JrmD6wSTtI2rTkeU8AEf50EaZop8uhmW6JDUaDBlFDLr5/q+qsJ+JP23uAb/kIxkhJ28HqGjLX2PvzGZOf66l3peDp9mvj2q6+psorqMvRQEPuNHaVKb+SQpt1KUrIBJSvaR8Tgm01poXSsbt5ezqulr2j7F2S0+hhJOSjclQJGR4xjHRDEgyrbUdHDgSYEScr02UuPTGZIB2qSrBbyAMFWEEgkqGMnnpt7s0sdPam3adbLnsYADCncEpKAlIPHnA6TZCwU2XJe02dnJapXbnT3u/bpIioQAlRBKRwM584HXMk5xuDPtq5MmW7VtPrEb01qS0FJcKQ6tH4SkD6J+I6bdG6orYnamFXRNQ0sO2brwhlb0pKShwjPIP0oZP+gHB6IbOtitvrkV8ttxO4qKZFjFWrCuVZ2ukrVnnPnOMeSHZEpzQLMs7qmgu1O+EtMlh5aWY7DckqVIy2Nq0+S56vG0cbeccdX+polnW9hLOBdzEPWjcBz1VBwu/HfkI3HlRCSE7vx0Zdv7Gih6lqViRTVEqIraZrjpQHGf8AtPp8gKWCU7lKB8g/QKb3U1Xp2w7fXsSsvaWRJeirSlv3idx+j8QM5VxwOjyraoRnW9xa3if/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Didn't Starve</div>
+                                                <div>Monkeying Around</div>
                                                 <div class="unlocked">11 May 2024</div>
                                             </div>
-                                            <div class="description">Survive for 127 hours.</div>
+                                            <div class="description">Gather 5 items with a monkey.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+11 others...</div>
+                                            <div class="description ellipsis">+13 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -578,7 +578,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 May 2024, 13:34:47 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 May 2024, 14:05:38 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
