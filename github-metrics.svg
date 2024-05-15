@@ -546,7 +546,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUHA//EACwQAAEDAwMCBQQDAQAAAAAAAAECAwQFBhEAEiEHMRMiQVFxFBYyoRU0QmH/xAAZAQACAwEAAAAAAAAAAAAAAAAAAgEDBAX/xAAfEQACAgICAwEAAAAAAAAAAAABAgMEABFBUSExMhL/2gAMAwEAAhEDEQA/ADd+3jXmLsrUaHVpLTjK+AAnBAHx/wB/eiKeoV0pUgqrclSDgkeUfI7a79S/HY6g1l5tBx43Cv8AJG0ZB1c6d9Nn7hfMqsRXYUHw0ONndgPEqHAHfG0K/WtFSpWNaNmjHyOB1naZlRf02Qvvu7HpS249ak4z5fxxt9ycaS2VdVZnV6PBqVYdlhxt4lvIxw0sjsPQjOmFT6UUF1ZiwluxZC1echZWQgq3YAPc4GB6AZJJ0eonTmpW7diZu6M5DjofK0IWS42hbSwgnP5e2R66i3VrCu5VBvR4HWVpPE/r3kG4VUk9Xal9yLP8Yh7lJUcZ2jGQAcj1xx86XOX6dkKLbbz0lqEfFL8pASCnBATgYwnuAB7ag3va1Sn3LUqhTokaQmQ7uQpclpPGAOxVx20aFjXI9KQ4/FjgZ8x+tZxt9gN+iparCCMM42AOR1jPEr/WaPJvmoViC1Wqc2qEhDyGkpcKVBZzjCRnOPfVRmsTK/VjP2/SttR3I7rW4FLgKFkY5ycHHPbWPHp/cKVrCYcdSTkA/WMj4P56VWda9Rp9Yj1CptsMKjsOp/soWXCWynA2k8+bPOOx0W7VdoHVXBOjryOsQQRr5XP/2Q==" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Zoophobia</div>
@@ -578,7 +578,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 May 2024, 12:35:08 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 May 2024, 13:05:52 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
