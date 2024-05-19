@@ -414,7 +414,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.13m out of 115m users</span>
+                                    <span class="gh">ranked 3.13m out of 136m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">19</div>
                                     </div>
@@ -542,7 +542,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            18 / 42 achievements unlocked
+                                            19 / 42 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBAMFB//EACkQAAICAgEEAQQBBQAAAAAAAAECAwQFESEABhIxExQiQVEHIzJhcYH/xAAYAQACAwAAAAAAAAAAAAAAAAACBQEDBP/EAB8RAAEEAgIDAAAAAAAAAAAAAAEAAgMRITEEEhOB8P/aAAwDAQACEQMRAD8ASXaKMUasmMoFa1CCZWSsoSwWhWQiXgl250R5LxyOT1NezFGLMceKpAT6Rg1ONhFuMy7g2u0IA8efL9+xvq/m61eCrgGvJlIILeIqq305VY7pVRskg7OlZU/fH4A6H7U+lox3Jc3JYEIPw00l/qVv34N5cso17HI/W+lDo5C4kOoJ+zncOGNrZI7I3rOfs+tJj7EzXZ0GCuJ3Phce9uBEmqiSkhmsK678C3iFLKeNnXBG+ihHgMt2t3lWPbWMpX6dGW9FPBAugrLsL933BlOuR/vSn2sdv08TkKlhcvesiq07MZflPyzvyACwG9AR8a6ExdSSPu76OKG1VjxL21mmjPy1xqP4wDvgkk8Ecgf460sFNo7SuWZskxLBQs4Wa3i8pP2TRzmZjoSYxasEVOVLPjZiPh8aoiHk6O3Kj2SSPXGogy72BLTtLDHOEf5LUEZErDSgtzxohF36P2/jrpuEftrMfx12zjsh3VRxdrHwq6yJZjLbZNMjo/50db/H/T0oXMHVfNLjI+5e3XxPpcnLaiZvj1yHTyBLj1oDR4OwPUWbQmMG7STaqV4a116N9btdJkV0CFWdTrTKeeN7HPPHVihFPDBfD3RBO1Cb5EZvEPGIzqI64LsTsA8/YT7A6b8/212tBlcfje3+8sZJDPEotSWJVQRMuh8gZAFIIH9m97HvknqpN29SqYLNS2+4O25mrVZhTr17yM08rDRkGgTvx3pSdkn2NdX+Z3XohEYDuy//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>This is Sparta!</div>
+                                                <div class="unlocked">19 May 2024</div>
+                                            </div>
+                                            <div class="description">Defeat 300 enemies.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -556,18 +566,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYCBQcE/8QAKxAAAQMDAwMEAgIDAAAAAAAAAQIDBAUGEQASIQciMRMUQWFCURUlcXKh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQQAAwX/xAAgEQABAwQCAwAAAAAAAAAAAAABAAIDBBExQRJRITLh/9oADAMBAAIRAxEAPwB66c2FQZ1jUR6qUalyVyIbS1K9mkKUCkHlXnP7OmddiWdDilSrbozMdlBUpbkdGEpAySVH4A+TqHS5ptPT23CteXPYNEnn5SMf81VXo6bhuBFCDqjSoCUv1ADO111XLbSsA5Skd5Hgkpz41nC5OU/GwyO4hINbqVIbqDMijWJQnqCoL9N2RF2OStuO5GEnaCSNoKSVDnjI1bVa37bfsa6tlpR6LVoUFUpbTjbbi296CpB3jISe09owRj7B0xyYxr7BixghmA1k+vsSC4sfIOAcfOTrMf4SZUbPveuy2m3KaIS22ZSlFZmPtucPpJ5ISnckK/LP1o7T1TTRxxBwNnDI7TRb3VCJbPT224siEZ9UXBQpEaOvZtaHalS1KHGceBnwdEok5l+ntPVFSvdVZ92YuHET6z77ilbvTSAM7Up2pJOBxyRoVqSLJqnTei0q5KjRQ7HiJSh1UlCH2FEZ7T5SoE/4OORrj6YO0ekXFLqFeuChpVCQqDCLUtva6lWCp7GeMgJAH+31obwq6eWOKNzh766+LQW7dm12ImPXP6ujnAVTmHAp6Qkfi86OEpI4KEZz8q+NF6uBprpXcEeKWmUIglKG0JASEDHaAPAxwP1qa+o9liciGbkppfUNwPqZQB9rxtB+s6oOql127UOn1diUyu0WRJeirSlv3idx8HtAzlXHA1PJKUc8vN3L/9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Got Any Chips?</div>
-                                                <div class="unlocked">18 May 2024</div>
-                                            </div>
-                                            <div class="description">Spear a fish.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+16 others...</div>
+                                            <div class="description ellipsis">+17 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -578,7 +578,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 May 2024, 14:05:57 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 May 2024, 14:34:31 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
