@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="915" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="931" class="">
     <defs>
         <style/>
     </defs>
@@ -509,15 +509,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAABAQACAwEBAAAAAAAAAAAABgcDBQACBAEI/8QALRAAAQMDAwMDBAEFAAAAAAAAAQIDBAAFEQYhMRITQRQiUQcyYXEjM0JygZH/xAAaAQACAwEBAAAAAAAAAAAAAAADBAECBQAG/8QAKBEAAgIBAwMEAQUAAAAAAAAAAQIAAwQREiEGEzEFIkFhFFGBkcHR/9oADAMBAAIRAxEAPwCANQJDiOpCCs/iur0dxskOJKaXWNJcUHVYCQeBSI2pEhlXqWQpJ3BAwaE+aqPtMfx+n78inu1yVHnB3Fdkgk7cUov+mVxUl2KOpvn9UZSFIXuNhzTaOHGomDfS9LFXGhE4pJ5rpjf281lc6iRjY0k03pxc3DskdLfzXO4QamdRQ9zBF+YejQX31fxpOD+KzuWhaGVuJUOpG+KqjdmZjRgGmx+6H6ji+jCwk4Lnik685bH2Cb+V0/bjY/ef+J5batUV/tOKwk8K8VRoJXJipDI6yBvjzU1tjqHE9p5JV1f9FMbLHktpb9HIHbB5NCzcJrPcke9C6irxV7dxmwksSGkqdVHUqIP6qjwkUN1DYkwprbuMw5P2rHAPNUebNvjNjlxX3YqIbyOlwqb3x85qWXe7FUZMFDvfZbUSFA8Gpwq3qG1jFOocqjNYXVaa/XzPbY9PLud3EVpOWkAKW54Apq5GWh1DLTZTGa9uw+4ip/ZNQSbZFdYYPSXdlKPOKewte3S5Q2YyWoqltDCCloAn9/NTmo9i7VlencirEt71oB/T/ZsX1LiW9a5A6RjbNS+/TjPmHf8AjHmlF6avdzB76uhryAMUJms9oKbSeog4JquFhMnuaN+v9QJlL2q5nZR2/ePNJbHIXHACiotK/NGo7qVYPz4pfpq2yZ7yW2EdS1cJxW2ik8CeFs0A1afdWW+S/aEy40pabeSQsqUTj5oI/aZSG0uMYfZPC0VctQfTm+v6KlMdpaSlJWEDbOakEdhMF5aZgfivNJCe24o4UR8Cg3rt5HMNivvXaTz/AFNC5HlpGOwsfP6reaGjzHruERcpCdypXApLa5USQWkhTZAPvymnGj9J3a9MzZ8a1rhpKehrIHvx5FUpHcbkED7l73NakDzCl/ubjrJjtkoaQcKV8nzRJ9gLST8+aW6zsk7T5IlNlS85UkCirjyVNJWjYHkfFOMpHmJVcjVTNBElFLwAxg080brlNiubDpSk9pQO45qSKmEJPbO9cMhSsKzuOaWW4rxNN8VX8z9ba31nNn2+PdbO4X4TiQlSWz9h85oHctVQXZLabrFYCikErKBUz0Xrebpx7CP5oq9nGl+4EfgUnv1+07qJvu+lcYkKHu923+qZGQDXtHEzmxHS3cR+837mqbS3LaRbGo8hR5KEDb90x0Fqi5z55kOviPa4vueXwkCo7Z5OnbSe/JZdcUk5CULwVV49Y/USTdI4hWtr0kBP9iBhSv8AIjmoGSqqdZJw2d/aI0+rP1Gbv96WmMEFpv2BQH3AeaBuXVCk5SkA4oUJK1OdSj7qytTFEBKtsnmg/kHwI4uCqj78mf/Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAAAQYABAcCAwUI/8QAKhAAAgEDBAIBAwQDAAAAAAAAAQIDAAQRBQYSITFBMgcTURQiYZEVI6H/xAAaAQACAwEBAAAAAAAAAAAAAAABAwAEBQIG/8QAIREAAgICAgIDAQAAAAAAAAAAAAECAxEhBAUSMSJBYRP/2gAMAwEAAhEDEQA/APmjWNTm1K6+5NgYHoVQ5k+xQf5UMZI6wKnoOd7PV0Kw/wAjOUdsKO8U32u0eEyyBj9v8e6pbKtIl5TK3JsVp2nRK0QZu2H9VUuswYPYc2dUsREu/wBnLOiHmVA7OaQNZ06bSr17d+/YNfQbxqyYJUL6J90k77sLOawkeZCZYhyDL1mhTbjQnruynKfhMyLmwqzp17LZXaTxY5A+xVZgObBRkUFAyKufp6LRH+VAUX+VAe6nsL97Hza1zALdW6jx1g+zTzp16xVWBDY8YrE7O5a1njcciFOSuabtt6rPqNwYMMqDskHxVW2rJkcvr5Xy+JpT3hMbgsMnz/FKO+L+ODTnjZgXkXAFebvb9ZoaW0aTElzyz/FJF7ez3j/cuJOTHrH4oVUfZzR1H8Zqcise+6i/IUDnFRfmKt/htZX0Fzk91FBY4FR/NRSVOVqZI8s0nQdm29xo73cuW/ZnAPdeHs4/b124t40bzxA94zVCDc97Dpn6OOQqvs01bS3DDqFwiTWqC7QAB0UDNIkmk8ieHCcbH5s5fWI/7rIAeFH94rNRWmfWIAXFivFsnB/5XVY7OtL3Qlu1JBAye6NcviN5Vyrn8jN+8UU7Ndl1GYbiRB4ViK6wMNTkwRaewuf3UPYyeqt6jYz2Vx9u4jKkiqnA+xRb2HSJjvGaZNhEjWcqMt1il6KJpHCL5PunrakMGlxq8siCZj5pVjSixlaXmvIbvqTrNtpsdqz2olvuI4lgCo6/FZtHuq8W1miLcQ+ThegKft6DTde06FP1ccd6nYY1lmqWD6fdGB2WQgZ5L4NLpWYh5UFZLDWipJIZJGYnz2a4p8gB3U4n8VYsraW4uEigjJcmrGNCvXo//9k=" alt="" />
                             <div class="about">
-                                <div class="name">Destroy All Humans!</div>
+                                <div class="name">Terraria</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Adventure
+                                        Action, Adventure, Indie, RPG
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -525,7 +525,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        14 hours played
+                                        61 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -533,7 +533,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 19 May 2024
+                                        Last played on 22 May 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -542,32 +542,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            36 / 40 achievements unlocked
+                                            45 / 115 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgDBAUG/8QAJxAAAgEDAwMFAAMAAAAAAAAAAQIEAwURAAYhBxJBEyIxUXEVYbH/xAAZAQACAwEAAAAAAAAAAAAAAAAAAwECBAX/xAAcEQEAAgMBAQEAAAAAAAAAAAABAAIDERITIYH/2gAMAwEAAhEDEQA/AA9ZKde77glW2kxLor9irwFCkZ4/NakjbM+n3ZQsM+0rhgR41j7BvMOydRKkq7KzWyV68WQyjJp06oKlwPOMg4/dMZsTZapZDEpxYkmCUdVmQ5q1aVY4wGQfKk+R4On1Nzm5btE0QADbkxnwaCj7zTBP+a56+o1vmNCkUUWp6YLqyL5BI8fmmvvO040KzmPMjxYdt9BEqzpcxU9Pj3A+WPHg+4+dKz1Ku0XcW+5s+10jTt5ZaMfuGGdEXtDEeCcZx/eixolsORvZE0Ehh255k3tpqWZyMAD5yBo+dFqcu0PRgW+4U8Va9UeilVSGqKgLjs+XwAvIx8nBbnQ56bJb/wCYpPcpVONHei3bXPIRzSIU8c8NjRz6dyenm14QaNLpNOYhmkSFL1R9KCBgAEeP3TKnJsmPLb0vzZ0H5K3VKzXveHTajJu8elaqsWQJLQ5LAsQR2p2sOMnuPtbkH60scy1PFnU0dSD3gfGmv6jbytd5gRYFqFwnpUcmvUgKVenTxg4Yj5P15AxkfOgduq3q8+iIkeZ6asmDXosjEDjLZHB4ydHPR9kevnYKOyf/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwYHBAX/xAArEAACAQMDAwIFBQAAAAAAAAABAgMEBREABiEHEjETQQgUUWGBFTKhwdH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBAAG/8QAKREAAQMCAwYHAAAAAAAAAAAAAQIDEQAxBCFhBRNBUXGBEiIjQsHw8f/aAAwDAQACEQMRAD8AkWyNvW+4mi+eijCOgdyVHgDJ1Yk3J09tFq+UptmWq4SqCFmloo8/liMnnUzpp6VLZZ5qEFH+TjSRV92CgMfz/ehqpyGPknPOs5s9YxgS6shMC1oue/zlRhwzj2K3ilkJiABEcZnLpRBtuC8zzywWyniLuZBGkQVFBOcD6D/NLm49ui20s7NSLGwRiB2Djg8g6bqWpq7TcIqkl8Egk5yGH2Pvqr9TaXatZ0hrLhHUxNcHp2aNs8lsHgcfjTK2MGtr0UkEZZ37jkdKXW3uvIQRHO9B+HjYVuve0Ka61rBpu1VVSuQB24+ul7fYppdzT26y2ySeeDhgqk9ngZ4+/OTxqX7P3vWWC2JT0V0amVlXuCuMZA9wdWXoPv3adsFyW919HFVzt6nrTuo7xxx3E+QcnH31E2+QPCn7+0Q1slD+J3j+cTYmTNhoAMoF71w5Nr1kG0S1aTDKZQ6hyR6a4Pd/HtpVFrhuu3L5hJ46ikopJ1ZOYsKnIbPIJwT504dX+pFkrqyppLPXQzQMf3xMpXB8gc4Ot1pqdp0nRG9ONx2v9Yq7fOxpTVJ6hdoyAoXuznwPGpdoKySlm9dni3MOsoA9qYPHQDqOJ7aV/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>For the Glory of the Furon Empire!</div>
-                                                <div class="unlocked">19 May 2024</div>
+                                                <div>It's Hard!</div>
+                                                <div class="unlocked">11 Dec 2023</div>
                                             </div>
-                                            <div class="description">Destroy humanity's last hope and initiate the subjugation of the species</div>
+                                            <div class="description">Unleash the ancient spirits of light and darkness across your world, enabling much stronger foes and showering the world with dazzling treasures (and rainbows!).</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBAX/xAArEAABAwIFAwQBBQAAAAAAAAABAgMEBREABgcSITFBUQgTFCIyFhcjYXH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECAxExUf/aAAwDAQACEQMRAD8ASMerx42ZGhVAt2nsyAl5ptWy7YNiBbpx4xQNW0cy1VZ9OOX64/DFRhmQzGfTvJ3fgsKtynynqRyDhf6Eaaws9V3M8+sJLkSHdDCNxAL6ySknyAB06G/ODqtStR4ufmpEeGufFZp6VLYKExUsJC3B9ObJXbgEX3Dta2LLTDJpcBT9jq5ukNPy2Iq40v2HpMuP7cYtbCoOoXY7gSLdrX5thf6lZaXkjMSqHKnU+oPGOl1aoyOEbgbJVccG1j/hBxSWeJ9d/V9HfpjTlUYqCWYkmIon4jaFkbvcBuk7hbaRfm5vyBid9Yck1ShVqNW5qFpi1xxx5CFqUpTCwfsyonk24se4t4wHo1ck2H3pprZotcrhdkBMRxht55lZCUlIIBcCiQAU7he/G0k9sNSpZn+ExmuuT1sLvEZ+CI4UtLn8atqdxFh9lhRHcWPTEyUVUiO63JhOFClN7QtChylSNqgfIIJBBw8MyZogydJoFCY9qRPkNtF8truWlpIKlLvb7EgAWv38YokYrLMfTdCzitzSmRLqAjQa3HbbaipuoJKVqbAe29r7QbeEk98cr1D1NOZMu08Jfa9yDNDrjYQR+ZU0E3PUhSVH+0kHGrO9WFT0yo1GoCUuuqbZbmMtIKnQEIvYm3TcB3wnZsGrqkRWpjM4ttLG1LyVAIHHnpwMFxFhb4z/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAgMEAQUH/8QALBAAAgIBAgMIAgIDAAAAAAAAAQIDBBEABRIhcQYTFDFBUWGBIjIVoUKCkf/EABkBAAIDAQAAAAAAAAAAAAAAAAIEAAEDBv/EACERAQACAQMEAwAAAAAAAAAAAAECEQASITEDBBMicbHB/9oADAMBAAIRAxEAPwDzSmdkvdlqQTbaKXI6yRs4iXjd+HGfLJJ99BZ2NYe5W7ttWJ3QGMx1lwT7Ee/PIJ9dMrWtum7I7evCkLrAqZVss0gXlgeZyef9aG/vtq3trVoopGsxRF5TICOBQOfXl9ddDJApzp4kIwJNcHGcuvttGCZS9aIkMIyXhDRq3qCfXrj70F7awdtlP8fVhgWKYq5iAdmVWOc+fIjH1p0q34YboeeONKoieeJkyi8X6epznPTGNT79buPQkrSxd0e5ZwzSBsjhycfJ8/kEfa5u83g+TpaECvje/v8AMxaMW2V9o3GR0nqSQxeIjC81RlwSD7jn9gay7fgrFe5fjsKlzb7EkXIWFxiNyB8sP+aRHfoydnYqxkrghEHA78424cEjqcE6DaYNnYweKtwwoI5IZfzBYthisg5+hIHscDz1cqfZMS7iETSxdqMgms3JfFq2C09eOCQZ/wAU4cHr+A/vVF7evHbfbiuKqtHThjgJH5EphSM/PEzf6jVokoTw7eZbFRHkll8YFkA7uPKABSSc5Ck+v7HU3aGXbpKe4Cu9fvpLjvHwuDiFQQgHXJz0GoNoJmM4hehz/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Impeached</div>
-                                                <div class="unlocked">19 May 2024</div>
+                                                <div>Still Hungry</div>
+                                                <div class="unlocked">11 Dec 2023</div>
                                             </div>
-                                            <div class="description">Destroy the pathetic human attempt at a robot overlord</div>
+                                            <div class="description">Defeat the Wall of Flesh, the master and core of the world who arises after a great, burning sacrifice.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+34 others...</div>
+                                            <div class="description ellipsis">+43 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -578,7 +578,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 May 2024, 12:06:03 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 May 2024, 12:34:32 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
