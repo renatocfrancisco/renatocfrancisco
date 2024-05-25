@@ -542,7 +542,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            8 / 17 achievements unlocked
+                                            9 / 17 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUHBgP/xAAqEAACAQQBAwIFBQAAAAAAAAABAgMEBQYRABIhMRNBBxQiMmEVFlGBof/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBQIE/8QAIBEAAgEEAgMBAAAAAAAAAAAAAgMhAAEEQRFRYcHw0f/aAAwDAQACEQMRAD8AreD2K11WJ2uertdsdmgUs70qFm7eSSPPGVXbMdp4pXSw251iUu7mmRVUAbJJ1zlgCFcHteyJGMAKqToE67Dftyb59nt2npa2w1FqS2MxCTD1Czld70DoDR7d/ccppS/KeQgUWvM65qU56MRAmYze0RviqPTWW1VdLBVxWyxCnmQSRlKRWLKRsEducsgsNpjxe8SraLckiUczJItKisGCHRGh2PJngeeXO2UkFmprYlxJciIBysmj36ffsDs/jlZv81RNiN5aalMJNvm6upt6PpnsPxwvQ/FeIkUXvE65oIejLQRANubWmN8d0H8NZ45MYtqM6B1gGkLDZ0PIHnXMtn2NXLNMui/TBCLfTQLG1YzApvqJIBH3EfwP84gtdVQT2mip2moqU+ho1XzCiUSemy/UD9QQdWulfOyTzYYnk1ktlFW/MVtFSmpqA608MgZY1CKp7gAdypPGWE8U7uXJTrv79rFyXlLFDIGN9W+9UswHEbviuZ9c8K1NFNBJGtTCfpB7EdXuvjXN5lSTHGL280mh8jPpB4+w8E/f2NjSpcYj/euC5Fltgq8bu8MF0pWmko5kROsbYlDoD885zN2S4WMGY15p61oxkEtZRO/Ff//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Found some good ones</div>
+                                                <div class="unlocked">25 May 2024</div>
+                                            </div>
+                                            <div class="description">Favorite 20 different Workshop wallpapers.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -556,18 +566,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcFBggB/8QAKxAAAgEDAwMCBQUAAAAAAAAAAQIDBAURAAYhEhMxB0IiQVFhsRRScXSB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEA//EACMRAAIBBAEFAAMAAAAAAAAAAAECAwAFETFBBAYSISIVYaH/2gAMAwEAAhEDEQA/AG3sexWuq2na56u12x2aBSzvSoWbjySR51KyWiwdXRTWC3TP/WQAf7jUTt2WSj9LI6iNszR0Dyx/ZghI1QnqLPTWBr1PKay+SP3O7h4+0xXq7fSPhOG92PnreeeQSN9HZ5q6z2NevhD60PS59kc6wP3/ACmc23rcCDJabFED7BSKzfjQ24LDaY9r3iVbRbkkSjmZJFpUVgwQ4IwONZ5ivlal7FxjkP6judY8H3dWPH11oeWsqa/06rKmogZWltDu7sRksYsnAHy0oOokaRR5HY5qruLtj8PCHYhvIHjGDiu+nASq2fQq4zGsAQj68aXfqdtKopFrKuzjNCZDJMnHDEMWOSc+AOBq27F3TZKDadspZ7jTwzADuqzAFccn8AalYt6bdjppVe6U5MkhzznjTngdnb5OzxUNkvZtjJIjAjAyCd0t/S3YT10kV3ucZ7CEPDH+4jpYHIP88Y02NywSJtS8dThY0t8yrGvgfAcaFXfu2kVUiuEWBx9MaG3Fu2wVe27vDBdKVppKOZETrGWJQ4A++iCB1dfk7HFO+XxrqzSysMYOBnVf/9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>k0n4m1</div>
-                                                <div class="unlocked">11 Jan 2023</div>
-                                            </div>
-                                            <div class="description">30 lives</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+6 others...</div>
+                                            <div class="description ellipsis">+7 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -578,7 +578,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2024, 20:05:45 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 May 2024, 20:34:39 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
