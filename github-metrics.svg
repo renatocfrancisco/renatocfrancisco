@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="915" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="893" class="">
     <defs>
         <style/>
     </defs>
@@ -513,15 +513,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABgcEBQgAAwH/xAAwEAABAwMDAwIFAwUBAAAAAAABAgMEAAURBhIhMUFRBxMUImFxgQgyQhVSU2Khsf/EABkBAAMBAQEAAAAAAAAAAAAAAAIEBQEAA//EACURAAICAQQBBAMBAAAAAAAAAAECABEDBBIhQVETMWHhFHGhwf/aAAwDAQACEQMRAD8AzVcp8m8TkbwN54AAqtWVJcUFfuBxVnpzYL9FLhykKqTrC1KtlyUoJPtO/Mk/fmsvmp0oio45rtx4+lceOnNMzS3pJKvsBmYu8RITTn+VJP8A5Q5MqYhbmp0Wm4nP14NduPXuKfyP013N5n3I+oIDnGUnYcGhlXohfETGIxksqWpwpeSEnLKR0WfoaXXXadvZpu0xWMJLz7aNw+Y4+1S2HpNpuSVYAcScjI6ipydPTY2p1Wp9pSXG3ClSsfxzwr81K1/HSxdmwkchtKeO+BTO6yK7mdQcZdMeShxOSUnIxTIjvxNQWZLE0pUoD5XB2Pilkv8AccGrGxS5DMtDUbKt5wUeftWOtzrqMbRlgslpdMq8NmZsVlOw4H5prxrnZtNSI5aHxFxmYw2DltlB5SSnpShTa58tYjltaVKAK8fwHk0xnn4cCLFhSEoU8hIKH1DknHTzU3MgyZVUm79/iG9jA2QcEDj5Pj7hQF3i8XlpD8kwoTpAbZGUqWfoRRQ5ERFlFmEXXZG0BT5VkK/1/FDFu1TCX8I64tJVFVuUQOg6Vbz7lEujzStPzEOuqOfaTnIV3rxyomPPsUDbXFihfyeP7I2DNrc2jGR12tvpttEhfIFmAnqbZGYEl26lktT9g+JcP7Vt9gkdj9azzf7gbjcFLzlA4Fad9WH3IeiLym5sKfcfjBCNhwWVf3H6Vk1GQBVLTWyAsKI6HUqIeOCSOr4M5eAvnkVc6Saaeu7TakLU8pQDKknASryapnCc8kc16MPLjPJcZJQtPIOeaYayKhTWbUWNp+62J9pgyA5tEhfVJ46VbfCMaguSLu4hhJdcLMUbBtQpPdQ70sfTrWUbVb9mtt23NTWXMBe7CXhjgAeaYukJsC93yVAtiXI8WOtQbW4rI9wH5qh51XGtkHeO+qjByN+aHBBxUP3f1PS92e92CxyH4TltJSSvaqOCVZPSo8BxdygyFvwhBuZZG51sBCVeNoHQ0b6eZ/qUd83ZYLDK1J2E88Hr9qHr8LZGujSIT5Ecqw/lWcJ+nivH10chNvI7jOM4sWdnUkxFer0y+W+1tRLvJCnJCin2u4R2JpPp8Z6VpL9SFqtqdMQLlEcLnuKKEgncoYHc+KzYMZFWdHkGTFuAqIuRu4nxwYVivh5xk1LuMF+FI9uSgpURUTafBpqBJ9luT9oucedFVtdYVuQT2NEejtX3G03WQph/YZqzvJ5CcnOR4oQx+fFe9vkKiTGZIQFFpQOCMg0LIre4uYwJBAmopKnE6aTIemuR2UpDillRG/NdqjWOm42iTBZeQmS6gbXVHJKvvQL6heqTUjSzVhtiGXWn2EpfWlIynjkA9jSTU44rAWtSgDwFHOKSGD1yMjLto9f7E9JpH06Mj5C4PnqaUucObcdBzFRoDshRjjLiyFJA8gdjWaloKHlpVwpKiD96OIPqNdIulXbMFOZWCneDwB4oMisPTJQS2grdWf8AtNoXJO4ADqoWk0S6QEKxN+Z//9k=" alt="" />
+                            <img src="data:image/jpg;base64,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" alt="" />
                             <div class="about">
-                                <div class="name">Brawlhalla</div>
+                                <div class="name">Loop Hero</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Indie, Free to Play
+                                        Indie, RPG, Strategy
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -529,7 +529,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        32 hours played
+                                        74 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -546,32 +546,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            19 / 57 achievements unlocked
+                                            39 / 50 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUDBP/EACsQAAIBAwMDAwMFAQAAAAAAAAECAwQFEQASIQYTMQcUQWFxgTJRkaGxwf/EABYBAQEBAAAAAAAAAAAAAAAAAAYDBP/EACYRAAEDBAEDBAMAAAAAAAAAAAECAxEABAUhEjFBYQYUIlGBobH/2gAMAwEAAhEDEQA/AIVtt9LaLIjrTLLI0ogQFyoLAEszEcngH+hq/wBGwUN8rpqSrpuzJGcExyuQeMjGT99HrnvFHSiZpfZySSYRCeZFIIOBzwDro9PKlKW9VEyVDrSRlXw24hnLY8/BwGGPJ8a2m/UjKC0GkcfoRMTM1JeLSfTy8gYLvMwZM8QeMcYjz+57Vf65pLf041NHT07TzT5wHlcBcc5ODovWUlHfbBJL7YQyJN2JF3lwGIyrKTz8/wDNU/VKtSrvUDmaRaRoy0YIaPJVtu7kAnyR/OofTZqWoK9EeQ0EU0Z2t8SMTzzzyF/zSz27S7MOaJPmhzbj6VjZBBH9rSqmmkkSOmSMPBu3NIxwwc5GABxgjz8/jST09rKp7S1OnZWWGYxjuR9xWd3EiuBkYZGVWGcjP75OodhqLRc4O/UPVK5H6qdvztYYPIJOkXTdXaLNWRiL3XtVcykupZmbGMnj6DRa3xjir9y7cKS2ofk6EClWSzbSsS1jmELS62qZj49TJGzMg9CNTWfXyS261x29nE86iKlWV8lnWMmRWkYkknyABjA+2hlnq3iq6mnmjBaoEYDI3ChTu5GOc586edY3C036eJgaoKuCWVCrAjI4yD8E6JXgWazxtVU0tXJJtxmoIH1woAGSSANJ23GGLItDXfxRVtT7r4LgJJPWK//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAcFBgIDCP/EACsQAAEDAwIEBgIDAAAAAAAAAAECAwQFESEAEgYTIjFBUWFxgZEVsRRCof/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAgEQACAwACAQUAAAAAAAAAAAABEQACAxIhBDFBYaGx/9oADAMBAAIRAxEAPwDnau1d9uU7HiuKQEEpJSf8Hlorhek1KusyHvyMhlpo7QblW9XkMj0+9Gt0mBIkvOMlmQ9zFFaS5ZQUSbjabX+tX7hudTKdSExJFIlBxJuFNouCT3NgUn4zqGu5PQ6M15+MgLHsfEXsnh6q80tQqo4+6D1IUsoKB4km5GPfUxBgR4DZRVKymRIKOhtOAScDvlQ7Zt4++puo1GnsPuPoQqNzFYS8bKUfCwJJ9u3vqrOVlRqH8WIyU9Y5iQAiwJyT4n9Zxp8tLJepia41bfEfc0pixmmJDbrXNkTn1LbINhZC7lJPr2HrjGmVwVwU0aOw6YSXo5bTLjSSsIc3L2qsndjcLCx8u5vjVRbZjKVHKVEulQWVFI2ouoBJBPlfd8abVMq9MpMNbEKpNsx2xZKEOJVgY7G+SbnHpopEg+8hpblUKIqo8HTKfxO+wy4huGVAsvOLBuCrpHST1A+B721Kvx4bbhIdVIlFQBcSkJQADgeZ+/H40fV3k12sKLktccPP2TK5dlJSgDaVWA/sVZtkHWNbobcVSH/yESSN5WUML6U2I/R7ffshF7EIoS9LZZ1dgyv2f//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Til KO Do Us Part</div>
-                                                <div class="unlocked">29 May 2024</div>
+                                                <div>For whom the horn tolls...</div>
+                                                <div class="unlocked">6 Aug 2022</div>
                                             </div>
-                                            <div class="description">Play 3 games in the Ranked 2v2 matchmaking queue.</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYDBP/EACwQAAICAQMCBQMEAwAAAAAAAAECAwQRAAUSBjEHEyFBcRZRYRQVgdEjUpH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMG/8QAIhEAAgIBAwQDAAAAAAAAAAAAAgMAAQQREzESISNBUXHw/9oADAMBAAIRAxEAPwCblv8A05ZXatsqRcYEQM4UF5XKgsxOM9z/AANYp1raScpK9Rcf7ToMaB8SUs2OrYdpqSeVJutiOEvnsCEUD4ycn4GhbPTFDcP1dTp3bbLivejoncbF5MlmkCcjAACASfTHbWnNwL0AR4mdVj7lbjC5/e5cT9bWS6rE9M5+1hP71tFe+o7H7XudSIpPG4STiOcbhSVdWxnuPgjUDY6e2uw1iLaNstS1al6KnNuEt5AxzIELeTjIDE4B9cf90x4eMIPEG9tFcuaVKxOa/NuRVFLJjP5yD8j86AuBmoEPMLMewrrWXevqbeJNaW91DIab+VfqSJLBJnGTwU4z7HIBB0De3TqmzBZjXaKtae1Kk09mtXEcsro3JWJBxnl6+gGrbcKMvUM43TZ/KsxWURnRZFDxOFAZWBOe47644+lt4NgM1HCr2/yJ/erWhLRo+qSXkmrxkPHzI/dt+36KpZe7s23wCxNHLanWqFM7K/Mc8HGCw9cAZ094X1Xq9SxWrCotm/ycrGMLGhVmwPk49PYAaStdJ7rKWVqHmQyoUkXzE9Qf57+4/IGu2hQfpqUbhujpDBUhKxh3XnO/DioVQT79/tpKQtWpWXaqjnk2wNsB0u79T//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAAsEAABAwMDAwMCBwAAAAAAAAABAgMEBREhABIxBhNBBxRRYeEVIlJxgaHw/8QAFwEBAAMAAAAAAAAAAAAAAAAABAECBf/EACARAAICAgEFAQAAAAAAAAAAAAECABEDEjEUIWGhwfD/2gAMAwEAAhEDEQA/AOeKxU5Sp6ocBTm7fsAbySeAkAabqR0hUWH6bLly3ZTaiDIjLWpHbun5vmx8an0h11jqB12OCXkSSpAH6grGqj0kvq2p02OGaUtTSXFKdfeIbCwVElN1HBz99IwlCSXFw+bYAamovepXfhuxVRGnYjQKmypt3C+LGw8886AUKrvuSmo8pxSwshIKj/R+dUOrdC1StFTM2t02Kkr7yI61FZSMgDcm4Nr2P3GgrnphOg9qdDqdOnssqDq+06E2SnJsDknHgaoVeyakrkQALcc6HApFJZbk0ymJk1N8BxyRIsoIUoXO0HAF/m/7aAdSdczoFV7UiT7hncondchKvKc5weLC2dMlOmRfw1gIkMoV2wPzEc28jQ+rx6ZKVHkTezPUyonYVJsAR4TfObc3/nGlDGcabbd/Q+w24ZyGWxEvpOrR5c73E95xUpbikJaO0tlJHKr5JufFuNPbske0kIRFKNzZAWEWuAnyLY5xrHTIlNge5THW2lEhwuFG4bUEjISPA1plraiwHUma29vQbFKwbC1rH6/766zeoe7Tjj95izjU8if/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Kill Them with Kindness</div>
-                                                <div class="unlocked">26 May 2024</div>
+                                                <div>As anew</div>
+                                                <div class="unlocked">2 Aug 2022</div>
                                             </div>
-                                            <div class="description">Press the "Say: GG!" button after 66 different matchmaking games.</div>
+                                            <div class="description">Fill the whole map</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+17 others...</div>
+                                            <div class="description ellipsis">+37 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -582,7 +582,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 May 2024, 13:37:10 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 May 2024, 14:05:35 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
