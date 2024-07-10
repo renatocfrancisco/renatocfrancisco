@@ -513,15 +513,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHQAAAgICAwEAAAAAAAAAAAAABgcECAAFAQIDCf/EAC4QAAEDBAEEAQIFBQEAAAAAAAECAwQABQYRIQcSEzFBIlEUFTJxgSMzQmFykf/EABsBAAEFAQEAAAAAAAAAAAAAAAEAAwQFBgIH/8QAJREAAQQBBAEEAwAAAAAAAAAAAQACAxEEBRIhMRMGIkFRJXGR/9oADAMBAAIRAxEAPwCs93uj1yk+ZzQOta1UAFR1991i9FW9cVu8Jt6bnkkKM4NoU4Aa4keI2F30i0bjRRFhnT+VePE9McEZlR+kKB2qnFbejLKWEFfkKj87902cQx6EzBjrLTai0kaPGhRSHIuj/Ub7fR0ocV5hqXqTKml2Q8Ke2FrBaQM3o0w6jSA5r/qlbm/Sm4WZLkiLtxoc6A5q6RdikjxvNketbFajI7aw9CcUptJSQfejTOJ6jzceXbJyETE14Xz0WFtrUlQ0ocEVIt012FLbea0Sk75FEvVK0os+VyWWhpC/qA/ehBP6gDXqcE3miDx0VAeNpoLlzW+Bx8VucTekxrmH4PMhr6kcb5rTLAC+PVWT6V4BHYjMtyOwyZDYWCoegRsVC1TOjw4bf8rqNhfyErrv1CyWSyWFzVNJ9ENEpNZg0q8Xm/tRU3CYoE8p8p5o2yDorkDt2eENglpSye4J41W16WYDMxjqQzHnp7nEBKz/ADVQ/Owm4znQ1dX0ngHHgoC6kfnGPXoNCdNT3AcB0jVau0Z9kcMaauDjg9adUVU5+uuGyMjzqIxDAbW8EpSPudUFwOiOSNTkpkR1BoL/AFdtLHzsN+M101XX0kQ4cBLTNZk25Sm5VzGpKx71oaobQNq9E691abOenkZyEmApKPxgZGiB86qr8pgxpz8dW9trUg/wdVZ6TqEeXGRH8JmSMs5K8ifqTwe0GrFScyXAtOPXeAoJU32tL3yNJFV0X+r3ujvBX3r4I1icQpbSFladfO6OqYrJmNc/pqMRrpPqV1vR+WEtOoEgp449mlvaupGQxr5Ku7LKnJChpwrT3aQPRqJgtraeusVpxlO0S1oPeNjimzAtEqHc8gYiNwigxUk97YOhv4rOeDEwtzAy7+0+HPSyyLqZkF3lQ7hLjlJYXtlxtPbs/amDZutyhFDE5afOhAOyPf8AqpN5tc122Y/HeZhKQqSr+20ATx6pX9RILbE2Z44ga7EAAADYO/dAR4mYGxllfopW9GNnzZy+3y8XK4Op8DLA8WuNGq43Z4P3eY98LeWof+0c5gXcZj/gmkKbM2OgqJP3G90uxsq2fdaHSsRkO6SPgGh/EzK6+1ijzx80V9Mru5Y8qiTmWi+tpQIaH+VD1xhSIb/ZIbKFEfNTsXlMwbq05K2lsEb+9WOS3fC5tdppvasii04zeZSLkiyXaLJUe9XY/pPcfZ0KnmwWOM3JlPQr22hae154yjrtqBYeq2OQIyEKeZVpAHPxUm69YrBJtcljzMq8iddoHusGRniTZ4ztUv2AclezWP49PhsOxol6eYaUS0tMo6CqgybBjMSUZ0y0XaU6jns/EbB/fddrJ1gsMC0hhLjI1yG9c1k3rBjs1kIJabI5JPzQ/IbwBGaSpldpIdYr8rIMgEkxlRkIQGkNn4SPVASfY0DsUTZ5c2LreHHopCmyokdtD8KK7KfS0yklZPqt3hM2QNFVSiu74X//2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAABAQEAAgMBAAAAAAAAAAAABgUEAAIBAwcI/8QAKBAAAQMDAgYDAQEBAAAAAAAAAQIDBAAFEQYhEhMiMUFRFCNhQoFS/8QAGwEAAgMBAQEAAAAAAAAAAAAABAUCAwcGAQD/xAAtEQABAgQEBQMEAwAAAAAAAAABAgMABAUREiExQRMiUWHRFIGRI0JxwaGx4f/aAAwDAQACEQMRAD8A/LJPEfytNugPT3g3HSSffquWyE5PlJZbG3k+qVElBRbLQjr7OOjxQ7z2DlTr/UOqXTBM/WevgvYAaqPQfs7RjbgW21qHy3S9IH8oON6otXSbwhMO3uhPgq3qpbbJGiDLg5jx7qXvvW92RHjj7FoRSdyZSs2tiPfxGjyVGdl274gyOiQL+6jvB5253EDEq3uqT7TtU56Pa7mspClRpJ8LNMWpcZ/ZtxCzWa4WiLMR1ICV+FI2NeImEoOmH8eInNUd2ZbuHA8OigP4UNI+e3W1P29zDo4keFjsanjbPqmp44Lht9zTzIq9kOnx/tG71blW+SUjdte6D7puw/j5Va7d4zqq0n04LzIISDZQOqT+wdjFi2INrsj0gj73coTSXTsBMKElax9zvUSf2jusz8dEdlrpCVcWK62nVTrOETU8aAMAigXGnH2saNzfxHVSU9J0meErMGwbSADtc5qJ7mEuoHJqIeICeNw98Ch0ez3S4lS3S4jf+jTqBcI89HFHcCiNyB4qJqS/qtzhjxkAKxkk1RKuOpPCQnmhpXpSRfSJ+ZeUWtLJORPaIEqw3OCOY2pa0jykmqemdQOF0RZhzvgKPuu+ndSOypKI0tHGVnAI7VO1fCEO4Jej9IUew90WbuqLD4z2Mc6nhyDQqlJcJQDZSTDO7QUXCEtpQwcZSqiriDcbI6y6MyIhOD5I7VNf1JPdaS2FgBIxsK06PdU9PfQ4c81OKgiWcl2ypR0zEFTNalKtOIZZSecFKr75XHwY0a4+zkOp3ycVCi2qZK3bYWU471cjrN2sLiRgyY5KwKT6fmNy4DamwlK0DhUMeRUvULlmsIFyDaK00litz3HcWUhxIULb7EexgZpeR8C78t/KeLpI7VV1bZX5Uj5cbCwUjoHevGqrG4pwy4iSc7qCawQNTyoSeU+njSNsEb16Cp0iYY13EU4WpBtdJqgIRe6VCPdpmwykzG5D6S0lBz1Uru1rZuTXA+MEbhQojM1ZIeRwRkcvPsZNItNTJstlRmtEDHScYoeaS/cPLytDqhPUopNNlwpYVmSRkfEFrrpmVDypkc1vxw130a2pFxdUvpLYyQacT5SIcNx9wjhSNgaJNLEKzyZjgw9IJCKsbmVvtFKhrlAU5RJSlz6H2DYJBUR0A0+TkIg2aeq3zA5noVsoexSU8yC6m5W0hcVe7jY8e6F4wcHtVG1XZ63r262vKDuKOfYx8yczv3jlaTVRLgMvEhINwoapPXuDuI+iW+5Rp7eW1gnymuSbVDk5LjKQfwYoqhVtuKg4w8Yb/fHFtn/K3tt3pofRJbeR4wnelBl8B5FYT38xorNX9S2A+0HR1RY/KTmIsxrPCjnKGkk/u9e6XMjQWuJ1aWwPFQli+OD7HmmU/qawOogQ182fKMl7/gK2r4MFZ51X7DOJOVRMs2RLs8MdV2SB7DMxpdW7eni9IPKtrW+/9Uf1BcxOeDbWzDWyQK5d7y5N+tocmONggbVJG9NpeXw2UoWtoOn+xn1Xq4fCmmlFWI8yj93QAbJGwj//2Q==" alt="" />
                             <div class="about">
-                                <div class="name">Spelunky</div>
+                                <div class="name">Session: Skate Sim</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Indie
+                                        Indie, Simulation, Sports, Strategy
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -529,7 +529,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        27 hours played
+                                        25 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -537,7 +537,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 9 Jul 2024
+                                        Last played on 10 Jul 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -546,32 +546,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            9 / 20 achievements unlocked
+                                            5 / 48 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFAAP/xAAsEAACAQMDAwQBAwUAAAAAAAABAgMEBREABhIHITEUIkFhExUzUXFygYKR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDBAX/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIRIQMSMUH/2gAMAwEAAhEDEQA/AFa/3qCy2qouUwOIh+2vmRiQFVR8kkgAfejjqDea2w+ja/3ustldWo8yw21k/DRKo7K2UZpmJIBPtA74wPNBuCGXcG/bNaIER4LfA91qInYqkkgPCFWI7gcizf6jRotbXWG9XlbzNZqWppp4mimqopaqpkJLcFjIbLD2n24wQe+uZxUCbPDLFjp9f5r1bJUr5o6mspWVTUwjC1KMoZJQB4yD3A+QdVJbJJPb70Q7X3VYdnWZhcaC821aiV5GqZ7TJBDI7MThQM8VGcBfgDSJs/dFp3RFK9ollkaAgOksZiYAjKvg+VI8H61PkqioagHUw7BcY7d1o3FTXFvxmsoqRqeRh7SF5grn4yf+66GyTUnU+r3Nd7NM6iIU9JIsYfhxzl/onJx/AGtXc+zLbfapaieSrgrEiMJnpp3iZkJzxJU9xnvg+DqYGxN1W1nbbm9K1Fx2SuRZ8fXI4OqCP3EetsGGafVXddmq9lXOhmPKWVAEjk88wwKnH0Rot6F3KqTqL6MEcPQSgr/Cq6kD/Dcsf3a9962HqTXOaCspqK4jAb1UOIyxB7BuRz574HY6rei/Tuo2uKq63wJ+s1Y48VbkII8545+ST3J/pputa19gvfton//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgABAwUHAv/EACkQAAEDAwIFBAMBAAAAAAAAAAECAwQABREhMQYHEhNRFCJBkTJicWH/xAAWAQEBAQAAAAAAAAAAAAAAAAAABAP/xAAdEQADAAIDAQEAAAAAAAAAAAABAgMAERIhkQQF/9oADAMBAAIRAxEAPwDFUpqQJzjxTtJKyEpSVKJwABnNHPCfL6dd+1InK9FBX7gdFOOD9R8f0/VT2vOC8qHWGdUG2wLhw5E19LERh195ZwlDSSon6qW62i4WpaBc4T8Yrz09xOArzg/Na/c7S1wjMhTLLEWhhho951xwqR0k4UVbYVgjXXTYaVW82b/a5nD8WBDebkyHXUyAUa9tGpyfBOcY3qFPvatFE12p9GYixZgFHRxcq+HLXM4akT5bDcmQ+tbJ69e2gaYHgnOc71YWm8tcKSpcO9y1pbjNJDTSGypHTukJ0GFYJ08DJNZFZ71crR1m2TX4vc/INq0V/RtmopcuTNfU9MfcfeVqVuKKjR/z2rRjRtqfRgxLMSx6OGvF3MOdeUuRYCPRwFaKBwpxwfsdgP8AB90CuKK1FSyVKJyVE6mmB2rgn21fKCRXjMazZUCjQz//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Ironman</div>
-                                                <div class="unlocked">2 Nov 2019</div>
+                                                <div>The finer things in life</div>
+                                                <div class="unlocked">10 Apr 2024</div>
                                             </div>
-                                            <div class="description">Complete the game without using shortcuts.</div>
+                                            <div class="description">Perform [1001] Heelflips</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwIEBQb/xAAoEAABBAEDAwQDAQEAAAAAAAABAgMEBREABiESIjEHE0FRFGGBMlL/xAAYAQACAwAAAAAAAAAAAAAAAAAAAQMEBv/EACIRAAEEAgEEAwAAAAAAAAAAAAECAxEhADEEEkFRgRORwf/aAAwDAQACEQMRAD8AZi4SStsAL+UnwdEtzexpVTEvrk2k4WU11mpo611TQcaaKkqcdKcKUSR1ecDgfeu1l7na/Okw4tRczTGWG33YcT3UIWUhWDg5zgjwPnRrSypDU6NXxqqe7LoZj8mC27FWyp+K9kuN94GFpJ4+Dj96z7qukC6m7sCD9XHrLe806e9jRqqRuCnctIX4E1uNb0ljIU8EIcISHGyslSSM584IyPrS2FdXJ+ec6C9yqsXZL0N+js0SLuczLnpjw3HizHax7bXaMFZxzz5UfoaUK3dKVWkCBMo7uAqUpTTL06MGUKWlJUQO4nwCfHxpsqlJgyJq7j9ufWGsyLPb+74u6LN7blzDrYFipDzri43uuhaUBHbnjBAB1Wo6+1h+rFGzZbjs7QswpM19MhwJb4whA6EgD/Syf5pJV2I9rJITyc6KrezeqfUi3nyqm1ktqhsRoyoscuJ6QVKXyPHcQMfrUfJaAaW422CsjwJPbeNIkgEwMu3VXeT/AFK3A1VbqtKtRjx5rDbTvWyQoFKx0KyMdSPj71Ko27vBzd1fN3HaV8+HB63ULbZLbqlKQU8jx4J1Q29ZybD1LhTmqm1jsLivxpCpcctJSnKVI5J/6BH90rLOEBPThYHJH1o47Q+NC3EAKjwJHbeBEEgGs//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABQECBAYAAwf/xAAqEAABAwMCBAUFAAAAAAAAAAABAgMRAAQhBTEGElFhExRBQuEicZGh0f/EABgBAAIDAAAAAAAAAAAAAAAAAAADAQQF/8QAHREAAwACAwEBAAAAAAAAAAAAAQIDABEFEiGRBP/aAAwDAQACEQMRAD8A4qlNbAmY6ViBzbCTP5o1pmhvXTjanZZZVkHdRHYf2mQ/PS7dZjZwd1QbY4IZYW+4G2m1uLVslIk0lzbPW5HmGltzMcwiftVwurUaQ/bvWTSg2gHnWpUpicz0Od/1iovE97au6axbsqS44V+Jj2j5mr78ckpOaNph8OJFyzAKPDjeHdOtXdJduHUBx1ZKc+0D0FSLK7Tpb7jd66QG0AJSlMiPSO+dqqlne3FqD5d1bfNvynekdeceWVvLUtZySozUpySSkgkumHw4GBZiWPhw5q/ED16FNMDwbc4M5Uod/igSySZVJM5PWkB2phP01nWvS7dqHZxyoEGlz//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Eternal Life</div>
-                                                <div class="unlocked">2 Nov 2019</div>
+                                                <div>The hard way</div>
+                                                <div class="unlocked">4 Apr 2024</div>
                                             </div>
-                                            <div class="description">Obtain the Ankh.</div>
+                                            <div class="description">Perform [500] Hardflips</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+7 others...</div>
+                                            <div class="description ellipsis">+3 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -582,7 +582,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jul 2024, 18:34:39 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jul 2024, 19:05:46 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
