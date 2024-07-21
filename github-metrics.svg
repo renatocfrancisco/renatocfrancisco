@@ -195,7 +195,14 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Funniest Joke In The World</div>
+                                    <div class="name">Worst Piece of Sh*t Episode Ever</div>
+                                    <div class="artist">Distractible</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Worst Piece of Sh*t Episode Ever</div>
                                     <div class="artist">Distractible</div>
                                 </div>
                             </div>
@@ -204,13 +211,6 @@
                                 <div class="infos">
                                     <div class="name">Funniest Joke In The World</div>
                                     <div class="artist">Distractible</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Polkamania! (Official Music Video)</div>
-                                    <div class="artist">"Weird Al" Yankovic</div>
                                 </div>
                             </div>
                         </div>
@@ -557,7 +557,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2024, 12:34:56 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jul 2024, 13:06:59 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
