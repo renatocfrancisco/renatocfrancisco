@@ -137,11 +137,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="209.62361579157013" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="209.62361579157013" y="0" width="132.42875964849688" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="342.05237544006695" y="0" width="89.91595687278344" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="431.9683323128504" y="0" width="14.912692885546484" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="446.8810251983969" y="0" width="13.118974801603068" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="209.69387614710456" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="209.69387614710456" y="0" width="132.3915976303405" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="342.08547377744503" y="0" width="89.89072475227786" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="431.9761985297229" y="0" width="14.908508101476583" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="446.8847066311995" y="0" width="13.115293368800522" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -310,7 +310,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="74.39999999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="74.91666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -329,10 +329,10 @@
                                     <span class="prefix">Great</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">344</div>
+                                        <div class="value">345</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 344 repositories</div>
+                                <div class="text">Starred 345 repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -582,7 +582,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Aug 2024, 11:35:04 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Aug 2024, 12:06:02 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
