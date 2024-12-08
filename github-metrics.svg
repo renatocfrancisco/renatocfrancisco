@@ -529,7 +529,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        13 hours played
+                                        14 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -546,32 +546,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            76 / 220 achievements unlocked
+                                            81 / 220 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUE/8QAKhAAAQIGAAMIAwAAAAAAAAAAAQMGAAIEBRESByExM1FShLGywtIUIkH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMF/8QAIxEAAQMDBAMBAQAAAAAAAAAAAQIDEQAFQQQSMUIyUWFxIf/aAAwDAQACEQMRAD8AnXS5ty/sixXe+WJNWeaUhCmBCe2oAmGwA2JEoIB64PODgUZR6MBU+YH3jfY6Q1nDhlpAZ7Y+6EVG2wZBmWJW22h9tS1KV5L7qEAKI/kH5WpcNe427tEcDA9UPKjLHVgKjzA+8I7Xc25YGPf7tY7EmlMJAKimJCmNgRKNiDqRnJA6ZHON9U2xocSwdv8ASfhcOXokRjsD7YdytoYbStKleSO6jIKgMn7Rb9e447tMcHAwJqvw4TCjKZ2wyAnUH1hVW3JOl5ZAxBkyttrMpuUda4whUpA6K67GQnnN+ozjAIGT3nl3S6+9tKtJKr3TGfDSkfGLW26NMacoKVTuX0UQQVEgggH3+zSuFveW/IjgZA4EZpxRXVOpOMgwY4kSiVlPHUYBTpz6RMobw0aOYTJPiQkeKlz8YrSyNt0Mlx0dA5JV6lQShRXXUzkZMp1OAeQwSMfzl3q5XRp/ThASqdyOigAAoEkkgev2TRb7e6h+THByDyIxX//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGBP/EAC0QAAECBgEBBgYDAAAAAAAAAAECAwAEBQYREiExBxRRUoShIjNBccLSscHx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAAEDBAX/xAAgEQEAAQQCAgMAAAAAAAAAAAABAgADBBExQRIhImFx/9oADAMBAAIRAxEAPwCdVKnblfsihVeuUJt1akkMSwIb21AChsANiQkEA9cHmM4HbJPSwXT6kfvHbR5XvnZpZzYGcJmFeyoIJKUaW00kJ2dWCRk4H+xhxcaBbZzZO5T185ABJOmu1l5V1veMdeg6OylIu2UOtguj1I/eNJS6nblAsev1ah0JtpQQBMSxIcxsCEjYg6kZyQOmRzAXNybSEEFIS4FJHByOsMFflDJdnN6NEY+QfZMMnGg2ycGRqUN/OSIyDtpiZV0veMtcPR0VVsBsOWFaewyAxNH2VAhJuM9yQhTiNuvJxj+4dim27Xsq3JOduMMTLYOjpTsUE8q+EZxgEDJ8Tx4Sp+s2hOkl29mk58spj8Ysx8m1Kx4SJCSnxCSIyURD7/d1GVi3o32QHsDkODVEEy4wphAS4kKSoZSk525HP3hw7R0hNk3hqMAtS5/iJkjVrPk1At3s0rHmlM/jFdKLbuiybjk5C5EvzLgSHHddSsjJSdTgHgYJGPpx4sjKtRx/CJJWUH3CQASFVT6/d0xcW9K+SQ4T0jyar//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>I can't see anything...</div>
+                                                <div>Coffin: Cappella Magna</div>
                                                 <div class="unlocked">8 Dec 2024</div>
                                             </div>
-                                            <div class="description">Find the Yellow Sign.</div>
+                                            <div class="description">Find and open the coffin in the Cappella Magna.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYEB//EAC0QAAEDAwMDAgQHAAAAAAAAAAECAwQFBhEAEiEHFDEiUVKhwtITM0GElLGy/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgUAAQP/xAAiEQEAAQMDBQEBAAAAAAAAAAABAgMEEQASQRMhIjFCseH/2gAMAwEAAhEDEQA/ADqpU7cr9kUKr1yhNurUkhiMCG920AKG4AbiQkEA+cHnU4HLKPiwHT+4H363USKZnTezGwM4/HV8latKfCjrgRR2kUqcaBypvkHA50so0iFNnLc5lP7kYCScOnN3dVOttEOxwcmufFyyh5sB3+QPv1R0up25QLHr9WodCbaUEASIxIcxuBCRuIO0jOSB4yOdK1WFH7KaUtMhxCSkYZCcY5znGpevxOy6c3o0Rj8g/wCdFXoRlTJxZGJQz5ycjIMOXUtLup1trh7PBwaV6eNhyxrQChkBmSfkrTECQz2sMqntoUGtpClp9PA0aU23a1lW5Dm3GGJLYOx0p3FBPKvSM4wCBk+549i59atGaSXb3aTn4YmPp1rRuKU6Gx3CSn8SRzJREP3vnQXtnWaymPRyHoxzqnqUyMuDKaEsKUQrGFpO7jxojqOkJsm8NowC1HP9aMg1e0Iagpu92yR8UXP06XSi27osm44cC5EvyXAkOO7dpWRkpO04B4GCRj9OPcalenTt9nkrKHxIAJiqp/c6uys63WFD08j7Mca//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABQQGBwID/8QAMBAAAQMDAwEGAwkAAAAAAAAAAQIDBQQGEQASITEHExQiQVEzwtJSYXKEkZShsbL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQUD/8QAIREBAAIBBAIDAQAAAAAAAAAAAQIRAwAEEjETIkFC4SH/2gAMAwEAAhEDEQA/ADpSTtyfsiCl5yCbdWpJDFMCG920AKG4AbiQkEA9cHnVcS5ZSulgOn8wPr1OhaXxfZtZjeM4D6v0CtcXXQ1kHIwS5Kro6k1y0Msv0aSkUa1N5QHGsecjehR6k7TqZhxwxwZTZPKU695FEZJRTqzu91l8vGNfwPgezUUuWUOtgO/uB9erHFyduQFjz8tBwTbSggCopiQ5jcCEjcQdpGckDpkc6FhfE1MxdER3setMetTjlXUoUgqJHw2xgK3EpVjcABj79e8/SeC7Ob0axj4B/wA6eXFDJjJwZFShfvJslIKbdGz3eXy8ZV0/AdGluzxsOWPaAV0DVSf4VrMKCNkrnuZFDIvyLEO28QEeIw2ylSgCU94ccgFRx6DHtrVCm27Xsq3KOtuMMVLYOx0p3FBPKvKM4wCBk+549i6+atGuJLt7tDP2aXHy61w58U8HF5CSn9JIkpqIh+3pbva5jOoFUdtdFapM1AVtqXemmgq+QdiXX0srcS+FpdQFBXm2HlJBzz651o/aOkJsq8dowC3Tn+tF0MvaFErLV7tn8VLn5dLpRbd0WTcdHQXIl+pcCQ47t2lZGSk7TgHgYJGPTj3eXcY4bfgclZQ+kiiMhVU/b0bTaZXOSQ6em+ytf//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Cappella Magna</div>
+                                                <div>Hyper Cappella Magna</div>
                                                 <div class="unlocked">8 Dec 2024</div>
                                             </div>
-                                            <div class="description">Reach Level 80 in Gallo Tower.</div>
+                                            <div class="description">Defeat the Trinacria in the Cappella Magna.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+74 others...</div>
+                                            <div class="description ellipsis">+79 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -582,7 +582,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Dec 2024, 12:05:10 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Dec 2024, 14:05:08 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
