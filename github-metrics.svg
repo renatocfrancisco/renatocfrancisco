@@ -281,7 +281,7 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABAUDBwABBgII/8QALhAAAgEDAgUDAgYDAAAAAAAAAQIDAAQRBSEGEjFBURMUYRVCByJSYnGBkaGx/8QAGwEAAgIDAQAAAAAAAAAAAAAAAQMCBQAEBgf/xAAlEQACAgIBAwMFAAAAAAAAAAAAAQIRAyExBAUSExRBFVGh4fD/2gAMAwEAAhEDEQA/APnvfvvWbdlNZ02FaaSOIZlcLW43RE9KvNnl2PzUohJ6nJ+KksZILkkQSqzKMnaiJrmztpPSuJlSUDPSlvIgpAZhKjJGM/b3qNomU5xkH/VGfUNP3xcpjHcHc17YCW5S1tlaa7kAMcC9WoLJXJjQt2zuDW+oyO1elLSxszRlHRyjKexHatEbkdsUxNNWgcGgNs9G/wC0ZZH22oWd76Sz+3fna3IyXoWLeQHx2pta5A6rv1OOlLy040wpWdxdJonFOnwyTWyrCpJT2gEbK/cMR1p3wzw1pttZCJLNWiDFuacB2P8AdVlcPdaTbT3+lyrG4UepG4ypHkDzVtaNrltLwNJrNrIt09tHzSwpsxPcCub6vHPBHxi9NivCadXoO+g6Vjewts9j6YrjOK/R4NsIbbS7eMS3srCKeRQzRMdyc9cfFdfwrrI4g0hb8WstszMVMLncY71xXGl5HxNpmm3URFrLZ3jrJby7sQNub+DWv0qm8qhPi6f5DGLbo4RrUQROA3PI7FnPlj1NAzLysAaeXa9QBSi5AHy1dXiY1ohjP56a2ppQDhqPtn6VLItATHWhRxahxFJBegtDaossag4BJ/V5FWTpljbTvFBbKqQud0jGAx+RVSW9/wDRr241BoWuIpUCFUOCmO5q2NKuo9Ot7fU5pkhtFQSOzfYCKoe4Rkna+RmaUHijH5ss/QNJeZBCIoogowOVMVXH42cHzWULalFLDHBpo9xKqLj1gftHzVjcJ8UWOo6JHdaXOtyGkZTIp227VXP4r8Q22ppJaLciTk+4H8rH9JHfFcn2z3v1CtpXvXCLHLHF6Vqv3/fcqWaUSxJIoIDqGA8ZpTdHej7h9sbbeKWTHL16RjRVtkYqSKTlNR1hpzREMuB7qzlhVwhkGBmm9/rNzrEFnbXCmKytFCpD3ZgMEt5B8VzyuRzEnBxsamW4IwrHr/k0ieCMmpPdcB0PdL1a60K9N1pzMsJGJbZTgMP2joDSuGSRY5WmdmMkjScrHJUE9KH9fYAH+u9RvKWz3xv/ABQjgipeVbMslmlz0oUnNYTms6CnpUDk/9k=" alt="" />
+                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                             <div class="about">
                                 <div class="name">Peglin</div>
                                 <div class="infos">
@@ -318,7 +318,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABgUDAAcI/8QALRAAAQQBAAcHBQEAAAAAAAAAAQIDBBEABQYSFkFVgRMUMTRCYZMVdZGz0SH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAH/xAAcEQACAwEBAQEAAAAAAAAAAAABEQACAxIhMRP/2gAMAwEAAhEDEQA/APMsKJJnSEx4TDj76gSG202SALJ6AE5Q3Z05ymZ8ebambP1h3brZ7nIu/CuzOLdZXYS9CvhtcQq2QEpQUk8OF3+eOYbIgKLnl3U2fyDN2dOcpmfHk+bEkwZCo81hxh9IBLbiaIBFg9QbxtHXCEJsK7rewkem7r+9ffDOs/nIf2+L+pOUa5fmvXDtVTbUzZOmHQutkw5F34V2ZxbrK1CRoV9bbcVCgkBJQE3w9r/P+3nXkKXJgyEyIT7jD6QQHG1UQCKI6g1lDebTnNpnyZOasguJntxU1X2I2G4yozZqOFFsH0+NAf04c1n85C+3xf1Jzm82nObTPkyfNlyZ0lUia+4++oAFxxVkgCgOgFY2mna8k9a8uf/Z" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Won't Get Ruined Again</div>
@@ -328,7 +328,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAACAEEBQP/xAAkEAABAwMDBQEBAAAAAAAAAAABAgMEAAURBhIhBxMiMVEyQf/EABcBAQADAAAAAAAAAAAAAAAAAAEAAgT/xAAhEQACAgEEAgMAAAAAAAAAAAABAwIEABESEzFxwRRR8P/aAAwDAQACEQMRAD8ALlb0LR2pp8RqVB09d5EV5O5t5qG4pCx9BAwRWD9z6pV9N7TNfQ3Mvlqt1wldgNS0OR0ODvYTtIODz29oVjxzjb/azXLcKii2fX7rLpUXS2jDTeNO3qytNOXm0XCA26opQqVHW2FEckAqHJrKpQdSZkFqzXVqTotMSPHbC3Ayx2ky0nIATgD8EhSl+0cY/Rov01LPyV8gGgPj0Tg1fFLaTrk0i+i9ztL1qt7gnOMybZHLS31tBbjJWfMOLHKWcYCCfEZIOFEUc67wZkmBLalQZD0aS0rc26ysoWg/QRyKbVcWVSUTpr9ZFMK5CQGKHXN0kBEuZIuz6rShlYjzHGlpbjulKglxB27JGQSkJBByonCtvBX+VYmzJM+U7JnSHpMh1W9x15ZWpZ+kn2ar0VKsaqgqPQ8esXNLpbjn/9k=" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Critical Thinking</div>
@@ -350,7 +350,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Apr 2025, 12:05:44 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Apr 2025, 14:05:22 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
